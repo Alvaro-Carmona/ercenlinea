@@ -1,0 +1,13 @@
+[
+    {"valor":1, "name": "Médico"},
+    {"valor":2, "name": "Bioquímico"},
+    {"valor":3, "name": "Educador Terciario"},
+    {"valor":4, "name": "Asistente Social"},
+    {"valor":5, "name": "Psicólogo"},
+    {"valor":6, "name": "Kinesiólogo"},
+    {"valor":7, "name": "Sociólogo"},
+    {"valor":8, "name": "Nutricionista"},
+    {"valor":9, "name": "Asistente de endoscopía"},
+    {"valor":10, "name": "Fonoaudiólogo"},
+    {"valor":11, "name": "Otro"}
+ ]
