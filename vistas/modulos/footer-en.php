@@ -76,12 +76,12 @@
 -->
 
           <p style=" text-align:left;font-size: 15px; line-height: 28px; letter-spacing: .25px; opacity: .8; font-family: 'mulish', sans-serif; align-items:flex-start;">
-            ERC GLOBAL MARKETS LTD PO Box 255, Trafalgar Court, Les Banques, St Peter Port, Guernsey, GY1 3QL es una empresa constituida en Guernsey, con el número de licencia 2003936
+            ERC GLOBAL MARKETS LTD PO Box 255, Trafalgar Court, Les Banques, St Peter Port, Guernsey, GY1 3QL es una empresa constituida en Guernsey, con el número de licencia 2003936,  Earth Capital Guernsey Limited es un procesador de pagos para clientes de fuera de la UE que utilizan carteras Skrill y Neteller
             <a href="#" id="mas" ></a>
           </p>
 
           <p id="desplegar" style="text-align:left; font-size: 15px;">
-            Earth Capital Guernsey Limited es un procesador de pagos para clientes de fuera de la UE que utilizan carteras Skrill y Neteller <br><br>
+            <!-- Earth Capital Guernsey Limited es un procesador de pagos para clientes de fuera de la UE que utilizan carteras Skrill y Neteller <br><br> -->
             Mexico City (MX) Av. Coyoacán 1878 Acacias, Benito Juárez, 03100 Ciudad de México, CDMX- México <br><br>
             Todas las empresas de ERC GLOBAL MARKETS LTD anteriores no ofrecen ningún servicio a los residentes de EE. UU., Irán, Nueva Zelanda, Corea Del Norte y otros países donde se aplican restricciones. Para obtener la lista completa de países restringidos, contáctenos. <br><br>
             ADVERTENCIA Y DIVULGACION DE RIESGOS:<br>

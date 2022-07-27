@@ -13,13 +13,17 @@
 
 
 
-			<p>This website uses cookies to ensure that you get the best experience when browsing our site.
+			<!-- <p>This website uses cookies to ensure that you get the best experience when browsing our site. -->
+			<p>
+				Este sitio web utiliza cookies para garantizar que obtenga la mejor experiencia al navegar por nuestro sitio.
 
-				<a href="politicas-de-privacidad.pdf" target="_blank">Read More</a>
+				<!-- <a href="politicas-de-privacidad.pdf" target="_blank">Read More</a> -->
+				<a href="politicas-de-privacidad.pdf" target="_blank">Leer Mas</a>
 
 			</p>
 
-			<button class="btn btn-info btn-md px-5">Allow Cookies</button>
+			<!-- <button class="btn btn-info btn-md px-5">Allow Cookies</button> -->
+			<button class="btn btn-info btn-md px-5">Aceptar Cookies</button>
 
 
 
@@ -47,13 +51,13 @@
 
 						<div class=" col-2 col-lg-2">
 
-							<h2><a href="registro">50%off</a></h2>
+							<!-- <h2><a href="registro">50%off</a></h2> -->
 
 						</div>
 
 						<div class="col-10 col-lg-10 promociones-2">
 
-							<h2> use nuestro codigo "big61" y obten un bono de 15% al depositar más de 1000 USD
+							<!-- <h2> use nuestro codigo "big61" y obten un bono de 15% al depositar más de 1000 USD -->
 
 							</h2>
 
