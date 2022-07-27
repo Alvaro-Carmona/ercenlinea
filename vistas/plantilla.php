@@ -68,6 +68,7 @@ $valor =  $rutas[0];
 
    
     if ($_COOKIE["idioma"] == "en") {
+   
 
         echo '<div class="banner_top " id="home">
         ';
@@ -461,10 +462,10 @@ $valor =  $rutas[0];
 
 
 
-    <?php if (!isset($_COOKIE["idioma"])) { $_COOKIE['idioma']='es' ?>
+    <?php if (!isset($_COOKIE["idioma"])) { //$_COOKIE['idioma']='es' ?>
         <script>
             $(document).ready(function() {
-                // $("#myModal3").modal('show');
+                 $("#myModal3").modal('show');
             });
         </script>
     <?php } ?>

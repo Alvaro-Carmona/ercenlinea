@@ -12,7 +12,7 @@
         <p class="my-3">Nuestro sistema educativo está pensado tanto para traders novatos como para avanzados. Podrás ampliar información y obtener lo que necesitas para tomar decisiones seguras con herramientas avanzadas, inspiración comercial e investigación de mercado. </p>
         <br>
         <br>
-        <a href="libros" class="inversion-p">Libros</a> <a href="eventos-y-webinarios" class="inversion-p">Webinarios</a> <a href="calculadora-trader" class="inversion-p">Calculadoras de Trading</a> <a href="cursos" class="inversion-p">Analisis avanzados</a> <a href="cursos" class="inversion-p">Aula Premium</a>
+        <a href="libros" class="inversion-p">Libros</a> <a href="eventos-y-webinarios" class="inversion-p">Webinarios</a> <a href="calculadora-trader" class="inversion-p">Calculadoras de Trading</a> <a href="cursos" class="inversion-p">Análisis avanzados</a> <a href="cursos" class="inversion-p">Aula Premium</a>
       </div>
       <div class="col-lg-6 bottom-ab-right mt-lg-0 mt-5 pl-lg-4 inversion-prin">
         <img src="vistas/img/movil02.png" alt="" class="img-fluid imagen-inversion-prin">
@@ -106,7 +106,7 @@
         <h3 class="hny-title">Mejores su estrategia con estudios de mercado seleccionados</h3>
         <p class="my-3">¿Quiere tomar rápidamente el pulso a un mercado o investigar inversiones centradas? </p>
         <br>
-        <p>Desde actualizaciones de mercado en vivo hasta análisis macro detallados, su cuenta de ERC le brinda acceso a información impactante, directamente en su plataforma de negociación</p>
+        <p>Desde actualizaciones de mercado en vivo hasta análisis macro detallados, su cuenta de ERC le brinda acceso a información impactante, directamente en su plataforma de negociación.</p>
        <!-- <a href="sobre-erc" class="btn btn-style btn-primary mt-4" style="margin-top:20px;">Más Información</a> -->
        <br>
        <a href="sobre-erc" class="btnOtro mt-4" style="margin-top:20px;">Más Información</a>

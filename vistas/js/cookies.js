@@ -36,8 +36,8 @@ $(".idioma").delay(3000).fadeIn(1000);
 
 $(".idioma").click(function(){
 
-	// var idioma = $("#selectidioma").val();
-	var idioma = 'es';
+	var idioma = $("#selectidioma").val();
+	// var idioma = 'es';
 	crearCookie("idioma", idioma, 1);
 
 window.location="http://localhost/erc/"

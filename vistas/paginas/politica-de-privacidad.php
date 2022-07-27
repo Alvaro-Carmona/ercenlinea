@@ -88,7 +88,7 @@
         <h3 style="font-family: Mulish; color:#3f3a64; font-size:30px; ">¿Quieres conocer màs sobre nuestras Políticas de Privacidad?</h3>
         <p class="mt-3 mb-5" style="font-family: Mulish; color:#3f3a64; font-size:20px; ">Si deseas conocer todo nuestro documento de politicas de privacidad por favor da clic en el siguiente boton.</p>
         <!-- <a href="Politica-de-Privacidad.pdf" target="_blank" class="btn btn-primary theme-button">Descargar Documento</a> -->
-        <a href="Politica-de-Privacidad.pdf" target="_blank" class="btnOtroLargo theme-button">Descargar Documento</a>
+        <a href="documentos/Politica-de-Privacidad.pdf" target="_blank" class="btnOtroLargo theme-button">Descargar Documento</a>
       </div>
      </div>
 
