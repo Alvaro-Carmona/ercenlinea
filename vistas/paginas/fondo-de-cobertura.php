@@ -55,7 +55,7 @@
     <div class="container py-lg-4">
       <div class="header-section text-center mx-auto">
 
-        <h3 class="hny-title">Analice, organiza y gestione sus operaciones con herramientas adaptadas a sus necesidades.</h3>
+        <h3 class="hny-title">Analicé, organiza y gestione sus operaciones con herramientas adaptadas a sus necesidades.</h3>
       </div>
       <div class="grid-view ">
         <video autoplay="autoplay" class="video-fondo3" loop="loop" muted defaultMuted playsinline oncontextmenu="return false;" preload="auto" id="miVideo">

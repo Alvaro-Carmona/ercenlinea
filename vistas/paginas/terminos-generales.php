@@ -6,7 +6,7 @@
  <div class="w3l-faq-block py-5">
      <div class="container py-lg-5 baner-azul">
          <div class="header-section mb-4">
-             <h3 style="font-family: Mulish; color:#3f3a64; text-align:center;">Políticas de Privacidad</h3>
+             <h3 style="font-family: Mulish; color:#3f3a64; text-align:center;">Términos Generales</h3>
          </div>
          <div class="row">
              <div class="col-md-4">
@@ -87,7 +87,7 @@
         <h3 style="font-family: Mulish; color:#3f3a64; font-size:30px">¿Quieres conocer mas sobre nuestras Políticas de Privacidad?</h3>
         <p class="mt-3 mb-5" style="font-size:20px ;">Si deseas conocer todo nuestro documento de políticas de privacidad por favor da clic en el siguiente botón.</p>
         <!--<a href="Politica-de-Privacidad.pdf" target="_blank" class="btn btn-primary theme-button">Descargar Documento</a>-->
-        <a href="Politica-de-Privacidad.pdf" target="_blank" class="btnOtroLargo">Descargar Documento</a>
+        <a href="documentos/terminos-generales.pdf" target="_blank" class="btnOtroLargo">Descargar Documento</a>
       </div>
      </div>
 
