@@ -29,8 +29,8 @@
 <section class="w3l-products py-5 mb-4" id="talks">
   <div class="container py-lg-3">
       <div class="header-section  mx-auto">
-        <h2 class="">DEPOSITOS </h2> 
-        <h3 style="font-size:20px;">Disfrute de nuestra amplia gama de opciones para colocar fondos en su cuenta y empezar a operar.</h3>
+        <h2 style="font-family: Mulish; color:#3f3a64;">DEPOSITOS </h2> 
+        <h3 style="font-size:20px;" style="font-family: Mulish; color:#3f3a64;">Disfrute de nuestra amplia gama de opciones para colocar fondos en su cuenta y empezar a operar.</h3>
          
       </div>
 
@@ -142,8 +142,8 @@
 <section class="w3l-products py-5 mb-4" id="talks">
   <div class="container py-lg-3">
       <div class="header-section  mx-auto">
-        <h2 class="">RETIROS </h2> 
-        <h3 style="font-size:20px;">Sabemos que lo más importante para usted es su dinero, ERC, le ofrece distintos métodos de retiro de manera inmediata que le permitan disfrutar de sus beneficios en el momento que quiera a la hora que quiera.</h3>         
+        <h2 style="font-family: Mulish; color:#3f3a64;">RETIROS </h2> 
+        <h3 style="font-size:20px;" style="font-family: Mulish; color:#3f3a64;">Sabemos que lo más importante para usted es su dinero, ERC, le ofrece distintos métodos de retiro de manera inmediata que le permitan disfrutar de sus beneficios en el momento que quiera a la hora que quiera.</h3>         
       </div>
 
       <div class="card">

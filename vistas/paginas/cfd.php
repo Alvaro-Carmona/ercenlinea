@@ -104,7 +104,7 @@
         <br><br><br><br><br><br><br>
         <h3 class="sub-titlehny">Conoce los CFDs con ERC</h3>
 
-        <h3 class="hny-title">Invierte en mas de 3000 CFDs diferentes con ERC.</h3>
+        <h3 class="hny-title" style="font-family: Mulish; color:#3f3a64;">Invierte en mas de 3000 CFDs diferentes con ERC.</h3>
         <p style="text-align:left;" class="my-3">Los CFDs son un producto derivado porque te permiten invertir en mercados como acciones, divisas, índices y materias primas sin tener que adquirir los activos subyacentes.</p>
 
       </div>
@@ -119,7 +119,7 @@
     <div class="row bottom-ab-grids align-items-center">
       <div class="col-lg-6 bottom-ab-left">
         <h6 class="sub-titlehny"></h6>
-        <h3 class="hny-title">¿Porque invertir en CFDs?</h3>
+        <h3 class="hny-title" style="font-family: Mulish; color:#3f3a64;">¿Porque invertir en CFDs?</h3>
         <p class="my-3"> Uno de los mayores beneficios del trading de CFD es que puedes invertir en el movimiento de precios en ambos sentidos, y el beneficio o la pérdida dependen del grado de exactitud de tu previsión.</p>
 
       </div>

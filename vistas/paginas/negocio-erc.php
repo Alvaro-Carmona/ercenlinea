@@ -26,7 +26,7 @@
         <div class="maghny-gd-1">
             <div class="row about-text">
                 <div class="col-lg-6">
-                    <h3 class="title-big">Conoce Nuestro Programa de Asociados.</h3>
+                    <h3 class="title-big" style="font-family: Mulish; color:#3f3a64;">Conoce Nuestro Programa de Asociados.</h3>
                 </div>
                 <div class="col-lg-6 mt-lg-0 mt-4">
                     <p class="mb-3">Nuestro programa de Asociados de ERC GLOBAL MARKETS es un sistema de ingresos listo para ser elaborado por personas calificadas que puedan generar clientes de alto potencial en la industria del mercado de valores y mercados de criptomonedas.</p>
@@ -68,7 +68,7 @@
     <div class="py-5" id="accounts">
         <div class="container py-lg-5 py-md-4 py-2">
             <h5 class="title-small text-center">Cuentas Asociados ERC</h5>
-            <h3 class="title-big text-center mb-sm-5 mb-4">Elige la cuenta que más te convenga</h3>
+            <h3 class="title-big text-center mb-sm-5 mb-4" style="font-family: Mulish; color:#3f3a64;">Elige la cuenta que más te convenga</h3>
             <div class="read-more text-center mt-lg-5 mt-4">
 
             </div>
@@ -163,7 +163,7 @@
                 </div>
                 <div class="col-lg-6 offset-lg-1 mt-lg-0 mt-5 pl-lg-0 align-self">
                     <h6 class="title-small">ERC NEGOCIOS</h6>
-                    <h3 class="title-big">Conoce las herramientas y beneficios que ERC NEGOCIOS tiene para ti.</h3>
+                    <h3 class="title-big" style="font-family: Mulish; color:#3f3a64;">Conoce las herramientas y beneficios que ERC NEGOCIOS tiene para ti.</h3>
                     <p class="mt-4">ERC te proporciona diferentes beneficios para que tus clientes puedan aprovechar al maximo su cuenta ERC. Al volverte Asociado podras darle a tus cliente los siguiente:
                     </p>
                     <ul class="w3l-right-book mt-4">
@@ -191,7 +191,7 @@
         <div class="select-block py-5">
             <div class="container py-lg-5">
                 <div class="header-section mb-4">
-                    <h3 style="text-align: center;">Preguntas Frecuentes</h3>
+                    <h3 style="text-align: center;" style="font-family: Mulish; color:#3f3a64;">Preguntas Frecuentes</h3>
                 </div>
                 <div class="row">
                     <div class="col-md-12 mt-md-0 mt-5">
@@ -202,7 +202,7 @@
                                         <input type="checkbox" checked>
                                         <i class="fa fa-arrow-down" aria-hidden="true"></i>
                                         <h2>¿Qué es un asociado ERC?</h2>
-                                        <hr>
+                                        
                                         <p>Un asociado ERC es una persona o un negocio que presenta nuevos clientes a otro negocio. Es una asociación entre las dos partes para ayudar a impulsar sus finanzas. En este caso, nos presentará a los clientes y le pagaremos por cada cuenta que se aperture.</p>
                                     </li>
 
@@ -210,7 +210,7 @@
                                         <input type="checkbox" checked>
                                         <i></i>
                                         <h2>¿Cómo presentar a un cliente en ERC?</h2>
-                                        <hr>
+                                        
                                         <p>Puedes presentar a tus clientes a través de nuestro sitio web o canales de marketing. También puedes hacerlo a través de tu enlace especifico. Los clientes harán clic y así nos lo habrá presentado, siempre y cuando se haya registrado. </p>
                                     </li>
 
@@ -218,7 +218,7 @@
                                         <input type="checkbox" checked>
                                         <i></i>
                                         <h2>¿Cómo convertirse en asociado ERC?</h2>
-                                        <hr>
+                                        
 
                                         <p>Simplemente tiene que completar el formulario con los datos solicitados. Después nuestros ejecutivos se comunicarán con usted para hablar sobre nuestra asociación y brindarle mas detalles.</p>
                                     </li>
@@ -227,7 +227,7 @@
                                         <input type="checkbox" checked>
                                         <i></i>
                                         <h2>¿Por qué convertirte en asociado ERC?</h2>
-                                        <hr>
+                                        
 
                                         <p>ERC tiene asociados que han estado con nosotros desde nuestros inicios y hemos pagado millones de comisiones a lo largo de estos años.
                                             Contamos con un equipo de expertos y herramientas que lo ayudarán con sus prácticas de marketing, lo que significa que puede concentrarse en lo que mejor sabe hacer.</p>
@@ -237,7 +237,7 @@
                                         <input type="checkbox" checked>
                                         <i></i>
                                         <h2>¿Cómo ganan dinero los asociados?</h2>
-                                        <hr>
+                                        
 
                                         <p>Como asociado ERC, se gana dinero a través de: comisiones iniciales cuando los clientes abren cuentas y depositan en ellas, y a través del volumen de transacciones que realizan nuestros clientes comunes. Entre más clientes abran cuentas y más negocien, más compensaciones recibirás. </p>
 

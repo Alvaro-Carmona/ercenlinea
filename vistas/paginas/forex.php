@@ -156,7 +156,7 @@
       <div class="col-lg-6 bottom-ab-left">
         <h3 class="sub-titlehny">FOREX</h3>
 
-        <h3 class="hny-title">Realiza trading en FOREX con nuestra plataforma ERC.</h3>
+        <h3 class="hny-title" style="font-family: Mulish; color:#3f3a64;">Realiza trading en FOREX con nuestra plataforma ERC.</h3>
         <p class="my-3">El trading de Forex se basa en comprar y vender divisas para especular sobre la subida o la bajada de su precio.</p>
 
       </div>
@@ -172,7 +172,7 @@
     <div class="row bottom-ab-grids align-items-center">
       <div class="col-lg-6 bottom-ab-left">
         <h3 class="sub-titlehny">¿Porque invertir en Forex?</h3>
-        <h3 class="hny-title">Con ERC puedes invertir en pares desde 0.6 pips asesorado por los mejores analistas. </h3>
+        <h3 class="hny-title" style="font-family: Mulish; color:#3f3a64;">Con ERC puedes invertir en pares desde 0.6 pips asesorado por los mejores analistas. </h3>
         <p class="my-3">El fin de este mercado, es facilitar las operaciones y las inversiones entre países, lo que hace que sea el mercado más grande del mundo. </p>
 
       </div>

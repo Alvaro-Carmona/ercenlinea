@@ -6,7 +6,7 @@
 <section class="w3l-about-breadcrumb">
     <div class="breadcrumb-bg breadcrumb-bg-services py-5 baner-azul">
         <div class="container py-lg-4 py-md-3">
-            <h2 class="title">Cargos Generales</h2>
+            <h2 class="title" >Cargos Generales</h2>
             <ul class="breadcrumbs-custom-path">
                 <!--    <li><a href="index.html">Inicio</a></li> -->
             </ul>

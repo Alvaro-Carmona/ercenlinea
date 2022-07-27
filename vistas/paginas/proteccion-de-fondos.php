@@ -23,7 +23,7 @@
                              <li>
                                  <input type="checkbox" checked>
                                  <i></i>
-                                 <h2>Seguridad y Divulgación</h2>
+                                 <h2 style="font-family: Mulish; color:#3f3a64;">Seguridad y Divulgación</h2>
                                  <p>La empresa respeta el derecho a la privacidad de cada individuo. Valoramos nuestra
                                      relación con usted y tomamos todas las medidas necesarias para mantener la lealtad y el
                                      respeto con cada cliente individual, brindándole seguridad. Las disposiciones de este aviso
@@ -32,7 +32,7 @@
                              <li>
                                  <input type="checkbox" checked>
                                  <i></i>
-                                 <h2>Información personal.</h2>
+                                 <h2 style="font-family: Mulish; color:#3f3a64;">Información personal.</h2>
                                  <p>
                                      Cuando solicita mantener una cuenta activa con la empresa, recopilamos información
                                      personal sobre usted para fines comerciales, como: evaluar sus necesidades financieras,
@@ -53,7 +53,7 @@
                              <li>
                                  <input type="checkbox" checked>
                                  <i></i>
-                                 <h2>Sobre las cookies</h2>
+                                 <h2 style="font-family: Mulish; color:#3f3a64;">Sobre las cookies</h2>
                                  <p>Las cookies son pequeños archivos que contienen información que el sitio web utiliza para
                                      rastrear a sus visitantes. La empresa puede configurar y acceder a las cookies
                                      empresariales en su computadora, lo que nos permite conocer qué anuncios y
@@ -66,7 +66,7 @@
                              <li>
                                  <input type="checkbox" checked>
                                  <i></i>
-                                 <h2>Tecnología de seguridad</h2>
+                                 <h2 style="font-family: Mulish; color:#3f3a64;">Tecnología de seguridad</h2>
                                  <p>La empresa utiliza la tecnología de encriptación Secure Socket Layer (SSL) para proteger
                                      cierta información que usted envía. Este tipo de tecnología lo protege de que su
                                      información sea interceptada por otra persona que no sea la empresa mientras se nos

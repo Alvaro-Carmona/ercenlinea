@@ -20,9 +20,9 @@
     <div class="content-4-main py-lg-5 py-md-4 py-2">
         <div class="container">
             <div class="title-content text-center">
-                <h1> Por qué operar con <span style="color:#007bff;">ERC</span></h1> 
-                <h3 class="title-big mx-lg-5">
-                    Nuestra empresa especializada en la prestación de servicios comerciales y analíticos.</h3>
+                <h1 style="font-family: Mulish; color:#3f3a64;"> Por qué operar con <span style="color:#007bff;">ERC</span></h1> 
+                <h4 class="title-big mx-lg-5" style="font-family: Mulish; color:#3f3a64;">
+                    Nuestra empresa especializada en la prestación de servicios comerciales y analíticos.</h4>
             </div>
             <div class="content-info-in row mt-5 pt-lg-5">
                 <div class="content-left col-lg-3">
@@ -33,7 +33,7 @@
                             <div class="content4-icon icon-clr3">
                                 <span class="fa fa-globe fa-2xl"></span>
                             </div>
-                            <h6><a href="#url">Acceso al mercado global.</a></h6>
+                            <h6 style="font-family: Mulish; color:#3f3a64;"><a href="#url">Acceso al mercado global.</a></h6>
                             <p>Opere con más de 60 000 instrumentos en acciones, ETF, bonos, fondos mutuos, opciones, futuros u otros productos apalancados</p>
                         </div>
                     </div>
@@ -46,7 +46,7 @@
                             <div class="content4-icon icon-clr3">
                                 <span class="fa fa-desktop fa-2xl"></span>
                             </div>
-                            <h6><a href="#url">Plataformas poderosas.</a></h6>
+                            <h6 style="font-family: Mulish; color:#3f3a64;"><a href="#url">Plataformas poderosas.</a></h6>
                             <p>Acceda a nuestras dos plataformas, la galardonada plataforma CFD y la plataforma Cripto, desde una sola cuenta.</p>
                         </div>
                     </div>
@@ -59,7 +59,7 @@
                             <div class="content4-icon icon-clr3 ">
                                 <span class="fa fa-money fa-2xl"></span>
                             </div>
-                            <h6><a href="#url">Precios líderes en la industria.</a></h6>
+                            <h6 style="font-family: Mulish; color:#3f3a64;"><a href="#url">Precios líderes en la industria.</a></h6>
                             <p>Benefíciese de precios de entrada líderes en el mercado y obtenga márgenes más ajustados y comisiones más bajas cuando actualice su nivel comercial.</p>
                         </div>
                     </div>
@@ -72,7 +72,7 @@
                             <div class=" content4-icon icon-clr3">
                                 <span class="fa fa-envelope fa-2xl"></span>
                             </div>
-                            <h6><a href="#url">Soporte experto.</a></h6>
+                            <h6 style="font-family: Mulish; color:#3f3a64;"><a href="#url">Soporte experto.</a></h6>
                             <p>Reciba el mejor soporte digital de su clase como estándar y desbloquee un servicio personal aún mejor con nuestros niveles comerciales premium.</p>
                         </div>
                     </div>
@@ -88,7 +88,7 @@
     <div class="py-5" id="accounts">
         <div class="container py-lg-5 py-md-4 py-2">
             <h5 class="title-small text-center">Cuentas ERC</h5>
-            <h3 class="title-big text-center mb-sm-5 mb-4">Elige la cuenta que más te convenga</h3>
+            <h3 class="title-big text-center mb-sm-5 mb-4" style="font-family: Mulish; color:#3f3a64;">Elige la cuenta que más te convenga</h3>
             <div class="read-more text-center mt-lg-5 mt-4">
             </div>
             <br>
@@ -182,7 +182,7 @@
             <div class="col-lg-7">
                 <div class="bottom-info">
                     <div class="header-section">
-                        <h3 class="title-big">¡Empieza a comerciar con ERC!</h3>
+                        <h3 class="title-big" style="font-family: Mulish; color:#3f3a64;">¡Empieza a comerciar con ERC!</h3>
                         <p class="mt-3 pr-lg-5">Ahora que conoces la informacion sobre las cuentas ERC estas listo para aperturar tus cuentas.</p>
                     </div>
                 </div>

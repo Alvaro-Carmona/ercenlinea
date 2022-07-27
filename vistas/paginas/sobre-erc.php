@@ -119,10 +119,10 @@
       <div class="team py-5">
         <div class="container py-lg-5 py-md-4 py-2">
           <div class="heading text-center mx-auto">
-            <h3 class="title-big">Nuestro Equipo ERC</h3>
+            <h3 class="title-big" style="font-family:Mulish; color:#3f3a64;">Nuestro Equipo ERC</h3>
           </div>
           <br>
-          <h3 class="mb-lg-5 mb-4">El equipo de ERC GLOBAL MARKETS esta creciendo, tenemos más de 350 empleados, en cada una de nuestras sucursales a nivel mundial que hablan distintos idiomas para poder brindarte el mejor de los servicios y atención.</h3>
+          <h3 class="mb-lg-5 mb-4" style="font-family:Mulish; color:#3f3a64; font-size:18px;  ">El equipo de ERC GLOBAL MARKETS esta creciendo, tenemos más de 350 empleados, en cada una de nuestras sucursales a nivel mundial que hablan distintos idiomas para poder brindarte el mejor de los servicios y atención.</h3>
 
           <div class="row team-row pt-lg-3 mt-md-5 mt-4">
             <div class="col-lg-6 col-6 team-wrap">

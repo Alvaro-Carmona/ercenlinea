@@ -19,7 +19,7 @@
         <div class="maghny-gd-1">
             <div class="row about-text">
                 <div class="col-lg-6">
-                    <h3 class="title-big">Conoce los beneficios que ERC tiene para ti en tu cuenta PROFESIONAL</h3>
+                    <h3 class="title-big" style="font-family: Mulish; color:#3f3a64;">Conoce los beneficios que ERC tiene para ti en tu cuenta PROFESIONAL</h3>
                 </div>
                 <div class="col-lg-6 mt-lg-0 mt-4">
                     <p class="mb-3" style="font-size: 18px;">El objetivo técnico de esta cuenta es acceso a algoritmos y patrones de tendencia diseñada con una estrategia que permita controlar el riesgo.</p>
@@ -64,7 +64,7 @@
         <div class="container py-lg-5 py-md-3 py-2">
             <div class="row">
                 <div class="col-lg-6 mb-lg-0 mb-md-5 mb-4 w3l-grids-3 align-self">
-                    <h3 class="title-big mx-0">Un buen Trader necesita de una buena Academia </h3>
+                    <h3 class="title-big mx-0" style="font-family: Mulish; color:#3f3a64;">Un buen Trader necesita de una buena Academia </h3>
                     <p class="pt-lg-2 mt-md-4 mt-3" style="font-size: 18px;">ERC se preocupa por sus clientes. Es por eso que al adquirir tu cuenta estandar tendrás acceso a:</p>
                     <ul class="cont-4 mt-4">
                         <li class="fa fa-check">&nbsp;Módulos de la Academia y Herramientas Complementarias</li>
@@ -84,7 +84,7 @@
     <div class="py-5" id="accounts">
         <div class="container py-lg-5 py-md-4 py-2">
             <h5 class="title-small text-center">Cuentas ERC</h5>
-            <h3 class="title-big text-center mb-sm-5 mb-4">Elige la cuenta que más te convenga</h3>
+            <h3 class="title-big text-center mb-sm-5 mb-4" style="font-family: Mulish; color:#3f3a64;">Elige la cuenta que más te convenga</h3>
             <div class="read-more text-center mt-lg-5 mt-4">
             </div>
             <br>
@@ -184,7 +184,7 @@
             <div class="col-lg-7">
                 <div class="bottom-info">
                     <div class="header-section">
-                        <h3 class="title-big">¡Empieza a Ganar con ERC!</h3>
+                        <h3 class="title-big" style="font-family: Mulish; color:#3f3a64;">¡Empieza a Ganar con ERC!</h3>
                         <p class="mt-3 pr-lg-5" style="font-size:18px;">Ahora que conoces la informacion sobre las cuentas ERC estas listo para aperturar tus cuentas.</p>
                     </div>
                 </div>

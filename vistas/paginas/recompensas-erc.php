@@ -22,7 +22,7 @@
     <div class="py-5" id="accounts">
         <div class="container py-lg-5 py-md-4 py-2">
             <h3 class="title-small text-center">Recompensas ERC</h3>
-            <h3 class="title-big text-center mb-sm-5 mb-4">Elige la cuenta que más te convenga</h3>
+            <h3 class="title-big text-center mb-sm-5 mb-4" style="font-family: Mulish; color:#3f3a64;">Elige la cuenta que más te convenga</h3>
             <div class="read-more text-center mt-lg-5 mt-4">
             </div>
             <br>
@@ -120,7 +120,7 @@
             <div class="col-lg-8">
                 <div class="bottom-info">
                     <div class="header-section">
-                        <h3 class="title-big">¡Empieza a Ganar con ERC!</h3>
+                        <h3 class="title-big" style="font-family: Mulish; color:#3f3a64;">¡Empieza a Ganar con ERC!</h3>
                         <!--  <p class="mt-3 pr-lg-5">Lorem ipsum dolor sit amet elit. Velit beatae
                             rem ullam dolore nisi esse quasi. Integer sit amet. Lorem ipsum dolor sit
                             amet elit.</p> -->
