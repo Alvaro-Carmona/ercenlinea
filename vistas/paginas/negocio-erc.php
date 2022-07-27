@@ -86,7 +86,7 @@
                             </h5>
                             <ul class="list-unstyled mt-3 mb-4">
                                 <li>Comienza a ganar por medio de tus amigos o conocidos.</li>
-                                <li>Gana hasta 30 USD por cada amigo que apertura su cuenta con tu enlace y realice su primer depósito</li>
+                                <li style="width:500px;">Gana hasta 30 USD por cada amigo que apertura su cuenta con tu enlace y realice su primer depósito</li>
 
                                 <br>
                                 <br>
