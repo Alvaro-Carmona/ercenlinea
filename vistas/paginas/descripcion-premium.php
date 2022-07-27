@@ -104,12 +104,14 @@
                                 <li style="position:relative;"><span class="fa fa-check" aria-hidden="true"></span>&nbsp;Se extiende desde 2.5 pips</li>
                                 <li style="position:relative;"><span class="fa fa-check" aria-hidden="true"></span>&nbsp;Módulo de la Academia 1</li>
                                 <li style="position:relative;"><span class="fa fa-check" aria-hidden="true"></span>&nbsp;Libros, Webinarios</li>
-                                <li style="position:relative;"><span class="fa fa-check" aria-hidden="true"></span>&nbsp;Calculadoras</li>
-                                <br><br><br>
-                                <br><br>
+                                <li style="position:relative; "><span class="fa fa-check" aria-hidden="true"></span>&nbsp;Calculadoras</li>
+                                <li style="position:relative; visibility: hidden;"><span class="fa fa-check" aria-hidden="true"></span>&nbsp;Calculadoras</li>
+                                <li style="position:relative; visibility: hidden;"><span class="fa fa-check" aria-hidden="true"></span>&nbsp;Calculadoras</li>
+                                
                             </ul>
                             <div class="read-more mt-lg-5 mt-4">
                                <!-- <a href="registro" class="btn btn-style btn-outline-primary btn-text-white btn-primary"> Aperturar Cuenta</a> -->
+                              <br><br><br>
                                <a href="registro" class="btn-cards"> Aperturar Cuenta</a> 
                             </div>
                         </div>

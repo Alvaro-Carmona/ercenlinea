@@ -77,7 +77,7 @@
                 <div class="col-lg-6 col-md-6 price-main-info">
                     <div class="price-inner card box-shadow">
 
-                        <div class="card-body">
+                        <div class="card-body-CPA-FRIENDS">
                             <h4 class=" mb-3">CPA FRIENDS</h4>
                             <h5 class="card-title pricing-card-title">
                                 <span class="align-top"></span>300 USD<span class="align-top">

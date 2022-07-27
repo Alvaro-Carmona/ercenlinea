@@ -94,7 +94,7 @@
                 <div class="col-lg-4 col-md-6 price-main-info">
                     <div class="price-inner card box-shadow">
 
-                        <div class="card-body">
+                        <div class="card-body-estandar">
                             <h4 class=" mb-3">Estandar</h4>
                             <h5 class="card-title pricing-card-title">
                                 500 USD<span class="align-top">
@@ -107,8 +107,10 @@
                                 <li><span class="fa fa-check" aria-hidden="true"></span>&nbsp;Módulo de la Academia 1</li>
                                 <li><span class="fa fa-check" aria-hidden="true"></span>&nbsp;Libros, Webinarios</li>
                                 <li><span class="fa fa-check" aria-hidden="true"></span>&nbsp;Calculadoras</li>
+                                <li style="position:relative; visibility: hidden;"><span class="fa fa-check" aria-hidden="true"></span>&nbsp;Calculadoras</li>
+                                
                                 <br><br><br>
-                                <br><br><br>
+                                <br><br>
                             </ul>
                             <div class="read-more mt-lg-5 mt-4">
                                 <!--<a href="registro" class="btn btn-style btn-outline-primary btn-text-white btn-primary"> Aperturar Cuenta</a> -->
@@ -120,7 +122,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 price-main-info mt-md-0 mt-4">
                     <div class="price-inner card box-shadow ">
-                        <div class="card-body">
+                        <div class="card-body-premium">
                             <h4 class=" mb-3">Premium</h4>
                             <h5 class="card-title pricing-card-title">
                                 1000 USD<span class="align-top">

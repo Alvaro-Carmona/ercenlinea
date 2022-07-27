@@ -17514,6 +17514,12 @@ div#small-dialog iframe {
   overflow: hidden;
   width: -9000px;
 }
+.card-body-CPA-FRIENDS{
+  padding: 3.5em 3em;
+  position: relative;
+  overflow: hidden;
+  width: 650px;
+}
 
 label.price-label {
   font-size: 18px;
