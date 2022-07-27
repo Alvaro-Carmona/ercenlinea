@@ -4,7 +4,7 @@ class usuarioControlador{
 
     static public function ctrRegistrarUsuario($datos){
        
-
+     //hola esto es una prueba
 
 		if(isset($datos["nombre"])){
 
