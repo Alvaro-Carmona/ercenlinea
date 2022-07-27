@@ -83,7 +83,7 @@
           </p>
 
           <p id="desplegar" style="text-align:left; font-size: 15px;">
-            Earth Capital Guernsey Limited es un procesador de pagos para clientes de fuera de la UE que utilizan carteras Skrill y Neteller <br><br>
+            <!-- Earth Capital Guernsey Limited es un procesador de pagos para clientes de fuera de la UE que utilizan carteras Skrill y Neteller <br><br> -->
             Mexico City (MX) Av. Coyoacán 1878 Acacias, Benito Juárez, 03100 Ciudad de México, CDMX- México <br><br>
             Todas las empresas de ERC GLOBAL MARKETS LTD anteriores no ofrecen ningún servicio a los residentes de EE. UU., Irán, Nueva Zelanda, Corea Del Norte y otros países donde se aplican restricciones. Para obtener la lista completa de países restringidos, contáctenos. <br><br>
             ADVERTENCIA Y DIVULGACION DE RIESGOS:<br>

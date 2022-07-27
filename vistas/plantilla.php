@@ -486,7 +486,7 @@ $valor =  $rutas[0];
                             <form method="post">
                                 <select name="selectidioma" id="selectidioma" style="width:100%;height :40px; border-radius:20px;">
                                     <option value="" selected disabled>--Select--</option>
-                                    <option value="en"> English</option>
+                                    <!-- <option value="en"> English</option> -->
                                     <option value="es">Español</option>
                                 </select>
 
