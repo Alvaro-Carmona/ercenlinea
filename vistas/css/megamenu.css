@@ -290,10 +290,12 @@
 .skyblue>li:hover>a,
 .skyblue .dropdown li:hover>a {
 	color: #fff;
-	background: #004094;
+	/* background: #004094; */
 }
 
-
+.cursor{
+	cursor: default;
+}
 
 .skyblue form.contact input[type="submit"] {
 	background: #fff;
