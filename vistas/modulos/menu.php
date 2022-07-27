@@ -176,7 +176,7 @@
 
 			<ul class="megamenu skyblue">
 
-				<li><a class="" href="inicio" style="padding:0px;"><img src="vistas/img/logo-erc.png" class="logo-principal"></a></li>
+				<li><a  href="inicio" style="padding:0px;"><img src="vistas/img/logo-erc.png" class="logo-principal cursor"></a></li>
 
 				<li><a class="color1" href="inicio">Inicio</a></li>
 
