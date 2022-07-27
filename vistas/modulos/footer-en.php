@@ -8,11 +8,11 @@
         <div class="col-lg-4 col-md-6 footer-list-29 footer-1">
           <div class="footer-logo mb-4">
             <a class="navbar-brand" href="inicio">
-              <img src="vistas/img/logo-erc.png" alt="">
+              <img class="imagen" src="vistas/img/logo-erc.png" alt="">
             </a>
             <br>
           </div>
-          <p>En ERC, la seguridad de los datos de nuestros clientes es una prioridad para nosotros y contamos con medidas de seguridad diseñada para proteger su información personal y fondos. </p>
+          <p class="texto">En ERC, la seguridad de los datos de nuestros clientes es una prioridad para nosotros y contamos con medidas de seguridad diseñada para proteger su información personal y fondos. </p>
           <div class="main-social-footer-29 mt-md-4 mt-3">
             <a href="https://www.facebook.com/ercglobalmarkets" class="facebook"><span class="fa fa-facebook"></span></a>
             <a href="https://twitter.com/EarthCoin5" class="twitter"><span class="fa fa-twitter"></span></a>
@@ -121,3 +121,16 @@
   </section>
   <!-- //copyright -->
 </footer>
+<style>
+  .imagen{
+    position: relative;
+    top: -12px;
+  }
+  .texto{
+    position: relative;
+    top: -25px;
+  }
+  .footer-title-29{
+    width: 200px;
+  }
+</style>

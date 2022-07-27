@@ -17501,6 +17501,19 @@ div#small-dialog iframe {
   position: relative;
   overflow: hidden;
 }
+.card-body-premium{
+  padding: 3.5em 3em;
+  position: relative;
+  overflow: hidden;
+  width: 400px;
+   
+}
+.card-body-estandar{
+  padding: 3.5em 3em;
+  position: relative;
+  overflow: hidden;
+  width: -9000px;
+}
 
 label.price-label {
   font-size: 18px;

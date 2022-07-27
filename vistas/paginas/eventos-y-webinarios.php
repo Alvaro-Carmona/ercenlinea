@@ -29,7 +29,7 @@ $valor = null;
 $fondo= ControladorFondo::ctrVerFondo($tabla,$item, $valor);
 foreach ($fondo as $key => $value) {
 
-    echo' <div class="col-lg-3 col-md-6 about-in blog-grid-info text-left">
+    echo' <div class="col-lg-4 col-md-6 about-in blog-grid-info text-left">
     <div class="card img">
         <div class="card-body img">
             <a href="#blog-single" class="d-block">
@@ -46,7 +46,7 @@ foreach ($fondo as $key => $value) {
                     </li>
 
                 </ul>
-                <textarea class="card-text" maxlength="100" readonly style="width:250px; height:150px; font-size:14px; border-style:none; border-width:0px;"> '.$value["descripcion"].'
+                <textarea class="card-text" maxlength="100" readonly style="width:350px; height:150px; font-size:14px; border-style:none; border-width:0px;"> '.$value["descripcion"].'
                 </textarea>
             </div>
         </div>

@@ -92,7 +92,7 @@
                 <div class="col-lg-4 col-md-6 price-main-info">
                     <div class="price-inner card box-shadow">
 
-                        <div class="card-body">
+                        <div class="card-body-estandar">
                             <h4 class=" mb-3">Estandar</h4>
                             <h5 class="card-title pricing-card-title">
                                 500 USD<span class="align-top">
@@ -100,13 +100,13 @@
 
                             </h5>
                             <ul class="list-unstyled mt-3 mb-4">
-                                <li><span class="fa fa-check" aria-hidden="true"></span>&nbsp;Aprovecha 1:500</li>
-                                <li><span class="fa fa-check" aria-hidden="true"></span>&nbsp;Se extiende desde 2.5 pips</li>
-                                <li><span class="fa fa-check" aria-hidden="true"></span>&nbsp;Módulo de la Academia 1</li>
-                                <li><span class="fa fa-check" aria-hidden="true"></span>&nbsp;Libros, Webinarios</li>
-                                <li><span class="fa fa-check" aria-hidden="true"></span>&nbsp;Calculadoras</li>
+                                <li style="position:relative;"><span class="fa fa-check" aria-hidden="true"></span>&nbsp;Aprovecha 1:500</li>
+                                <li style="position:relative;"><span class="fa fa-check" aria-hidden="true"></span>&nbsp;Se extiende desde 2.5 pips</li>
+                                <li style="position:relative;"><span class="fa fa-check" aria-hidden="true"></span>&nbsp;Módulo de la Academia 1</li>
+                                <li style="position:relative;"><span class="fa fa-check" aria-hidden="true"></span>&nbsp;Libros, Webinarios</li>
+                                <li style="position:relative;"><span class="fa fa-check" aria-hidden="true"></span>&nbsp;Calculadoras</li>
                                 <br><br><br>
-                                <br><br><br>
+                                <br><br>
                             </ul>
                             <div class="read-more mt-lg-5 mt-4">
                                <!-- <a href="registro" class="btn btn-style btn-outline-primary btn-text-white btn-primary"> Aperturar Cuenta</a> -->
@@ -117,7 +117,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 price-main-info mt-md-0 mt-4">
                     <div class="price-inner card box-shadow ">
-                        <div class="card-body">
+                        <div class="card-body-premium">
                             <h4 class=" mb-3">Premium</h4>
                             <h5 class="card-title pricing-card-title">
                                 1000 USD<span class="align-top">
@@ -126,7 +126,7 @@
                             </h5>
                             <ul class="list-unstyled mt-3 mb-4">
 
-                                <li><span class="fa fa-check" aria-hidden="true"></span>&nbsp;Aprovecha 1:200</li>
+                                <li><span  class="fa fa-check" aria-hidden="true"></span>&nbsp;Aprovecha 1:200</li>
                                 <li><span class="fa fa-check" aria-hidden="true"></span>&nbsp;Se extiende desde 0.01 pips</li>
                                 <li><span class="fa fa-check" aria-hidden="true"></span>&nbsp;Comisiones hasta 7 USD</li>
                                 <li><span class="fa fa-check" aria-hidden="true"></span>&nbsp;Depósitos y retiros gratuitos</li>
@@ -138,7 +138,7 @@
                             <div class="read-more mt-lg-5 mt-4">
                                 <!-- <a href="registro" class="btn btn-style btn-outline-primary btn-text-white btn-primary">Aperturar Cuenta</a> -->
                                <a href="registro" class="btn-cards"> Aperturar Cuenta</a> 
-
+                               <br> 
                             </div>
                         </div>
                     </div>

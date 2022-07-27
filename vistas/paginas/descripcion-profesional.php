@@ -92,24 +92,27 @@
                 <div class="col-lg-4 col-md-6 price-main-info">
                     <div class="price-inner card box-shadow">
 
-                        <div style="width:350px;" class="card-body">
-                            <h4 style="position:relative; top:10px;" class=" mb-3">Estándar</h4>
+                        <div style="width:320px;" class="card-body">
+                            <h4  class="mb-3">Estándar</h4>
                             <h5 class="card-title pricing-card-title">
                                 500 USD<span class="align-top">
                                     Depósito mínimo</span>
                             </h5>
-                            <ul style="position:relative; top:10px;" class="list-unstyled mt-3 mb-4">
+                            <ul class="list-unstyled mt-3 mb-4">
                                 <li > <span  class="fa fa-check" aria-hidden="true"></span>&nbsp;Aprovecha 1:500</li>
                                 <li> <span class="fa fa-check" aria-hidden="true"></span>&nbsp;Se extiende desde 2.5 pips</li>
                                 <li> <span class="fa fa-check" aria-hidden="true"></span>&nbsp;Módulo de la Academia 1</li>
                                 <li> <span class="fa fa-check" aria-hidden="true"></span>&nbsp;Libros, Webinarios</li>
+                               
                                 <li> <span class="fa fa-check" aria-hidden="true"></span>&nbsp;Calculadoras</li>
-                                <br><br><br>
-                                <br><br><br>
+                               
+                                
                             </ul>
                             <div class="read-more mt-lg-5 mt-4">
                               <!--  <a href="registro" class="btn btn-style btn-outline-primary btn-text-white btn-primary"> Aperturar Cuenta</a> -->
-                              <a style="position:relative; top:10px;" href="registro" class="btn-cards"> Aperturar Cuenta</a>
+                              <br><br><br><br><br>
+                              <a style="position:relative; top:5px;" href="registro" class="btn-cards"> Aperturar Cuenta</a>
+                              <br>
                             </div>
                         </div>
                     </div>
@@ -118,8 +121,8 @@
                     <div class="price-inner card box-shadow ">
 
                         <div style="width:400px;" class="card-body">
-                            <h4 class=" mb-3">Premium</h4>
-                            <h5 class="card-title pricing-card-title">
+                            <h4  class=" mb-3">Premium</h4>
+                            <h5 style="" class="card-title pricing-card-title">
                                 1000 USD<span class="align-top">
                                     Depósito mínimo</span>
                             </h5>
