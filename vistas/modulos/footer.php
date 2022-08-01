@@ -12,47 +12,53 @@
             </a>
             <br>
           </div>
-         
-          <p class="texto">En ERC, la seguridad de los datos de nuestros clientes es una prioridad para nosotros y contamos con medidas de seguridad diseñada para proteger su información personal y fondos. </p>
+           
+          <p class="texto" style="text-align: left; font-size:18px">En ERC, la seguridad de los datos de nuestros clientes es una prioridad para nosotros y contamos con medidas de seguridad diseñada para proteger su información personal y fondos. </p>
           <div class="main-social-footer-29 mt-md-4 mt-3">
-            <a href="https://www.facebook.com/ercglobalmarkets" class="facebook"><span class="fa fa-facebook"></span></a>
-            <a href="https://twitter.com/EarthCoin5" class="twitter"><span class="fa fa-twitter"></span></a>
-            <a href="https://www.instagram.com/ercglobalmarkets" class="instagram"><span class="fa fa-instagram"></span></a>
-            <a href="https://www.linkedin.com/company/erc-global-markets" class="linkedin"><span class="fa fa-linkedin"></span></a>
-            <a href="https://www.youtube.com/channel/UCHgT5Iv01w24yoOWdj_ljIw" class="youtube"><span class="fa fa-youtube"></span></a>
+            <a href="https://www.facebook.com/ercglobalmarkets" class="facebook"><span class="fa fa-facebook" style="font-size: inherit;"></span></a>
+            <a href="https://twitter.com/EarthCoin5" class="twitter"><span class="fa fa-twitter" style="font-size: inherit;"></span></a>
+            <a href="https://www.instagram.com/ercglobalmarkets" class="instagram"><span class="fa fa-instagram" style="font-size: inherit;"></span></a>
+            <a href="https://www.linkedin.com/company/erc-global-markets" class="linkedin"><span class="fa fa-linkedin" style="font-size: inherit;"></span></a>
+            <a href="https://www.youtube.com/channel/UCHgT5Iv01w24yoOWdj_ljIw" class="youtube"><span class="fa fa-youtube" style="font-size: inherit;"></span></a>
           </div>
         </div>
-
+      <!----------------------error del espacio en blanco---------------------------------->
         <div class="col-lg-4 col-md-6 footer-list-29 footer-1 pr-lg-5 mt-md-0 mt-5">
-          <h6 class="footer-title-29">Soporte</h6>
-          <p class="mb-2">Número Telefonico:<a href="tel:+(52) 55 14 16 39 94">+(52) 5514163994</a></p>
-          <p class="mb-2">Correo:<a href="mailto:info@eartcoins.com">info@ercglobalmarkets.com</a></p>
-          <p>Soporte:<a href="mailto:support@eartcoins.com">support@ercglobalmarkets.com</a></p>
+          <h6  class="footer-title-29" style="text-align: left; font-size:20px;">SOPORTE</h6>
+          <p class="numero_t" class="mb-2" style="text-align: left;  font-size:18px">Número Telefonico:<a href="tel:+(52) 55 14 16 39 94">+(52) 5514163994</a></p>
+          <p class="correo" style="text-align: left; font-size:18px">Correo:<a href="mailto:info@eartcoins.com">info@ercglobalmarkets.com</a></p>
+          <p class="" style="font-size:18px">Soporte:<a href="mailto:support@eartcoins.com">support@ercglobalmarkets.com</a></p>
         </div>
         
         <div class="col-lg-2 col-md-6 col-sm-5 col-6 footer-list-29 footer-2 mt-lg-0 mt-5">
           <ul>
-            <h6 class="footer-title-29">Links Rapidos</h6>
-            <li style="text-indent: 2em; width: 900px;"><a href="sobre-erc">Sobre ERC</a></li>
-            <li style="text-indent: 2em; width: 900px;"><a href="cuentas-erc">Cuentas ERC</a></li>
+          <h6 class="footer-title-29" style="text-align: left; text-transform: uppercase; font-size:20px;">Links Rapidos</h6>
+            <li><a href="sobre-erc" style="text-align: left;">Sobre ERC</a></li>
+            <li><a href="cuentas-erc" style="text-align: left;">Cuentas ERC</a></li>
            <!-- <li><a href="soporte">Soporte </a></li>
             <li><a href="erc-negocios">ERC Negocios </a></li> -->
-            <li style="text-indent: 2em; width: 900px;"><a href="negocio-erc">ERC Negocios </a></li>
+            <li><a href="negocio-erc" style="text-align: left;">ERC Negocios </a></li>
+            <br>
           </ul>
         </div>
 
-        <div class="col-lg-2 col-md-6 col-sm-5 col-6 footer-list-29 footer-2 mt-lg-0 mt-5">
+        <div class="col-lg-1 col-md-6 col-sm-5 col-6 footer-list-29 footer-2 mt-lg-0 mt-5">
           <ul>
           
-            <h6 style="text-indent: 3em;" class="footer-title-29">Plataformas</h6>
-            <li style="text-indent: 5em; width: 700px;"><a href="plataforma-cfds"> Plataforma CFDS </a></li>
-            <li style="text-indent: 5em; width: 900px;"><a style="text-indent: 3em;" href="plataforma-cripto">Platafroma Cripto </a></li>
-            <li style="text-indent: 5em; width: 900px;"><a style="text-indent: 3em;" href="paltaforma-nft">Plataforma NFTS </a></li>
+          <h6 style="position:absolute; left:50px; text-align: left; text-transform: uppercase; font-size:20px;" class="footer-title-29" >Plataformas</h6>
+          <br><br><br>  <br> 
+          <li style="width:300%; position:absolute; left:50px; text-align: left;" ><a  href="plataforma-cfds"> Plataforma CFDS </a></li>
+          <br><br>  
+          <li style="width:300%; position:absolute; left:50px; text-align: left;" ><a href="plataforma-cripto">Platafroma Cripto </a></li>
+          <br><br>   
+          <li style="width:300%; position:absolute; left:50px; text-align: left;" ><a href="paltaforma-nft">Plataforma NFTS </a></li>
+            <br>
           </ul>
         </div>
 
       </div>
-
+      <br>
+        <p class="espacio"></p>
     </div>
   </div>
   <!-- copyright -->
@@ -126,15 +132,40 @@
 
 <!--estilos-->
 <style>
+  /*.plataformas{
+    position: absolute;
+    top: 524%;
+    left: 75%;
+  }
+  .links{
+    position: absolute;
+    top: 524%;
+    left: 63%;
+  }
+  .soporte{
+    position: absolute;
+    top: 524%;
+    left: 41%;
+  }*/
   .imagen{
     position: relative;
     top: -12px;
   }
   .texto{
-    position: relative;
-    top: -20px;
+    position: absolute;
+    top: 80px;
+   
+  }
+  .espacio{
+    padding:30px;
   }
   .footer-title-29{
-    width: 200px;
+   position:absolute;
+   width:200%;
   }
+  .main-social-footer-29{
+    position:absolute;
+    top:240px;
+  }
+  
 </style>

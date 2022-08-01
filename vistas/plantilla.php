@@ -300,8 +300,8 @@ $valor =  $rutas[0];
             include "paginas/cpa-amigos.php";
         } else if ($rutas[0] == "registro") {
             include "paginas/registro.php";
-        } else if ($rutas[0] == "riesg-de-inversion") {
-            include "paginas/riesg-de-inversion.php";
+        } else if ($rutas[0] == "riesgo-de-inversion") {
+            include "paginas/riesgo-de-inversion.php";
         } else if ($rutas[0] == "señal-erc") {
             include "paginas/señal-erc.php";
         } else if ($rutas[0] == "sobre-erc") {

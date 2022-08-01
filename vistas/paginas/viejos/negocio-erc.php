@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="vistas/css/style-starter1.css">
+<link rel="stylesheet" href="vistas/css/botones.css">
 <link rel="stylesheet" href="vistas/css/style-select.css">
 <link href="vistas/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
-<link rel="stylesheet" href="vistas/css/botones.css">
 
 <!--<link rel="stylesheet" href="vistas/css/style-starter3.css"> -->
 
@@ -11,8 +11,8 @@
     <div class="container py-lg-5 py-4">
         <div class="py-lg-5 py-4 mt-lg-4">
             <div class="banner-info-grid mt-lg-5">
-                <h3 class="mb-4" style="letter-spacing: 8px; font-weight:bold; font-size:50px; text-shadow:2px 2px 2px rgb(16 16 16 / 80%);">Nuestro programa de Asociados de ERC GLOBAL MARKETS </h3>
-                <a href="registro" class="btn-cards"> Aperturar Cuenta</a>
+                <h3 class="mb-4">Nuestro programa de Asociados de ERC GLOBAL MARKETS </h3>
+                <a href="registro" class="btn btn-style2 btn-outline-primary2"> Aperturar Cuenta</a>
                 <section id="bottom" class="demo">
                     <a href="#bottom"><span></span>Scroll</a>
                 </section>
@@ -35,7 +35,7 @@
             </div>
             <div class="grids-area-hny main-cont-wthree-fea row mt-5">
                 <div class="col-lg-4 col-md-6 grids-feature">
-                    <div style="width:350px; height:305px; " class="area-box">
+                    <div class="area-box">
                         <span class="fa fa-area-chart"></span>
                         <h4><a href="" class="title-head">Programa de compensación competitiva y personalizada</a></h4>
 
@@ -50,7 +50,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 grids-feature mt-lg-0 mt-4">
-                    <div style="width:350px; height:305px; " class="area-box">
+                    <div class="area-box">
                         <span class="fa fa-user"></span>
                         <h4><a href="" class="title-head">Gestor de cuentas </a></h4>
                         <br><br><br>

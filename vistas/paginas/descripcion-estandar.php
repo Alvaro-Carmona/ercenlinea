@@ -85,7 +85,7 @@
 <section class="w3l-pricing">
     <div class="py-5" id="accounts">
         <div class="container py-lg-5 py-md-4 py-2">
-            <h5 class="title-small text-center">Cuentas ERC</h5>
+            <h4 class="title-small text-center">Cuentas ERC</h4>
             <h3 class="title-big text-center mb-sm-5 mb-4" style="font-family: Mulish; color:#3f3a64;" >Elige la cuenta que más te convenga</h3>
             <div class="read-more text-center mt-lg-5 mt-4">
             </div>
@@ -95,7 +95,7 @@
                     <div class="price-inner card box-shadow">
 
                         <div class="card-body-estandar">
-                            <h4 class=" mb-3">Estandar</h4>
+                            <h4 style="font-size:40px;" class=" mb-3">Estandar</h4>
                             <h5 class="card-title pricing-card-title">
                                 500 USD<span class="align-top">
                                     Depósito mínimo</span>
@@ -123,7 +123,7 @@
                 <div class="col-lg-4 col-md-6 price-main-info mt-md-0 mt-4">
                     <div class="price-inner card box-shadow ">
                         <div class="card-body-premium">
-                            <h4 class=" mb-3">Premium</h4>
+                            <h4 style="font-size:40px;" class=" mb-3">Premium</h4>
                             <h5 class="card-title pricing-card-title">
                                 1000 USD<span class="align-top">
                                     Depósito mínimo</span>
@@ -151,7 +151,7 @@
                     <div class="price-inner card box-shadow">
 
                         <div class="card-body">
-                            <h4 class=" mb-3">Profesional</h4>
+                            <h4 style="font-size:40px;" class=" mb-3">Profesional</h4>
 
                             <h5 class="card-title pricing-card-title">
                                 5000 USD<span class="align-top">

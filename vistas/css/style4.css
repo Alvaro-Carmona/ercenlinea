@@ -31,7 +31,7 @@ body a{
 	float: left;
 }
 .top_left h2{
-	text-transform:uppercase;
+	/* text-transform:uppercase; */
 	font-size:12px;
 	color:#ffffff;
 }
@@ -69,7 +69,7 @@ body a{
 .top_right ul li a{
 	text-align:center;
 	padding: 0px 4px;
-	text-transform:uppercase;
+	/* text-transform:uppercase; */
 	font-size:12px;
 	display:block;
 	color:#ffffff;
@@ -431,7 +431,7 @@ ul.icon1 {
 	text-align:center;
 	font-size: 1em;
 	color: #00405d;
-	text-transform:uppercase;
+	/* text-transform:uppercase; */
 	margin-bottom: 4%;
 }
 .sub-icon1 ul li p{
@@ -456,7 +456,7 @@ ul.icon1 {
 	font-size: 1em;
 	color: #000;
 	line-height: 1.8em;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 	margin-bottom: 4%;
 }
 .h_nav h4.top{
@@ -512,12 +512,12 @@ ul.icon1 {
 }
 .grid_text h3 a, .grid_text-middle h3 a{
 	color:#555;
-	text-transform:uppercase;	
+	/* text-transform:uppercase;	 */
 }
 .grid_text p, .grid_text-middle p{
 	color:#777777;
 	font-size: 0.8125em;
-	text-transform: uppercase;	
+	/* text-transform: uppercase;	 */
 }
 /* start content */
 .content{
@@ -529,13 +529,13 @@ ul.icon1 {
 .content_text h3{
 	font-size:15px;
 	color:#000000;
-	text-transform:uppercase;
+	/* text-transform:uppercase; */
 }
 .content_text h4 a{
 	margin:20px 0 10px;
 	font-size:1.5em;
 	color:#000000;
-	text-transform:uppercase;
+	/* text-transform:uppercase; */
 	text-decoration:underline;
 	display: inline-block;
 	font-style: italic;
@@ -579,13 +579,13 @@ ul.icon1 {
 .look h4{
 	font-size: 1.2em;
 	color: #fff;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 }
 .look p{
 	-webkit-text-stroke: 0.5px;
 	font-size: 0.8125em;
 	color: #fff;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 }
 /*-- start footer -- */
 /* scroll_top_btn */
@@ -761,7 +761,7 @@ ul.icon1 {
 	padding: 20px;
 }
 .w_nav1 h4{
-	text-transform:uppercase;
+	/* text-transform:uppercase; */
 	color: #589D3E;
 	font-size: 1em;
 	margin-bottom: 5px;
@@ -771,7 +771,7 @@ ul.icon1 {
 }
 .w_nav1 ul li a{
 	display: block;
-	text-transform:uppercase;
+	/* text-transform:uppercase; */
 	color: #555555;
 	font-size: 0.8725em;
 }
@@ -843,7 +843,7 @@ ul.icon1 {
 	padding:0 20px 10px;
 	font-size: 1em;
 	color: #555555;
-	text-transform:uppercase;
+	/* text-transform:uppercase; */
 }
 /* radios and checkboxes */
 .sky-form {
@@ -864,7 +864,7 @@ list-style: none;
 	background: #ECECEC;
 	padding: 10px 20px;
 	color: #333333;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 	margin-bottom: 0;
 	font-size:16px;
 }
@@ -1192,7 +1192,7 @@ list-style: none;
 .women h4{
 	float:left;
 	font-size:1em;
-	text-transform:uppercase;
+	/* text-transform:uppercase; */
 	color: #333333;
 }
 .women h4{
@@ -1233,7 +1233,7 @@ list-style: none;
 	margin-top:5px;
 }
 .grid1_of_4 h4 a{
-	text-transform:uppercase;
+	/* text-transform:uppercase; */
 	color:#000000;
 }
 .grid1_of_4 p{
@@ -1378,7 +1378,7 @@ list-style: none;
 	font-size: 12px;
 	cursor: pointer;
 	outline: none;
-	text-transform:uppercase;
+	/* text-transform:uppercase; */
 }
 .button:hover {
 	background:#333;
@@ -1523,7 +1523,7 @@ p.product_descr {
 .desc1 p a{
 	margin-left:5px;
 	color:#555555;
-	text-transform:uppercase;
+	/* text-transform:uppercase; */
 	font-size: 13px;
 	-webkit-text-stroke: 0px;
 	letter-spacing: 0px;
@@ -1542,7 +1542,7 @@ p.product_descr {
 	line-height:1.8em;
 	font-size: 1em;
 	color: #555555;
-	text-transform:uppercase;
+	/* text-transform:uppercase; */
 	margin-bottom: 4%;
 }
 .det_nav ul li{
@@ -1572,7 +1572,7 @@ p.product_descr {
 	padding: 10px 34px;
 	background: #00405d;
 	color:#fff;
-	text-transform:uppercase;
+	/* text-transform:uppercase; */
 	-webkit-transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;
@@ -1585,7 +1585,7 @@ p.product_descr {
 .desc1  a span{
 	font-size:0.8125em;
 	color:#555555;
-	text-transform:uppercase;
+	/* text-transform:uppercase; */
 	text-decoration:underline;
 }
 .desc1 a span:hover{
@@ -1594,7 +1594,7 @@ p.product_descr {
 }
 .det_nav1 h4{
 	font-size: 1em;
-	text-transform:uppercase;
+	/* text-transform:uppercase; */
 	color: #555;
 	margin-bottom: 6%;
 }
@@ -1738,7 +1738,7 @@ label {
 }
 .shoping_bag h4{
 	float:left;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 	color: #777777;
 	font-size:1em;
 	margin: 13px 0 0;
@@ -1757,7 +1757,7 @@ label {
 }
 .s_art li{
 	text-align:center;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 	color: #777777;
 	font-size:1em;
 }
@@ -1787,7 +1787,7 @@ label {
 	margin-bottom: 2%;
 }
 .shoping_left h4 a{
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 	color: #26BC85;
 	font-size:1em;
 	text-decoration: underline;
@@ -1801,7 +1801,7 @@ label {
 	color: #777777;
 }
 .shoping_left span{
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 	color: #999999;
 	font-size: 0.8725em;
 	-webkit-text-stroke: 0.4px;
@@ -1869,7 +1869,7 @@ ul.s_icons{
 }
 .shoping_bag1 h2{
 	float:left;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 	color: #777777;
 	font-size:1em;
 }
@@ -1975,7 +1975,7 @@ ul.s_icons{
 	padding: 12px 25px;
 	background: #00405d;
 	color: #fff;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 	-webkit-transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;

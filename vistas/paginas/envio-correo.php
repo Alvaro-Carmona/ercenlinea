@@ -138,16 +138,18 @@
                   <!-- COPY -->
                   <tr>
                     <td bgcolor="#ffffff" align="left" style="padding: 40px 30px 40px 30px; color: #666666; font-family: "Poppins", sans-serif; font-size: 16px; font-weight: 400; line-height: 25px;">
-                      <p style="margin: 0;">Para aclaraciones y comentarios por favor comunicate a nuestro departamento de Atención a Clientes</p>
+                      <p style="font-size: 20px; font-weight: 600; margin: 0; color:#7a7a7a; text-align: center;">Para aclaraciones y comentarios por favor comunicate a nuestro departamento de Atención a Clientes</p>
                     </td>
                   </tr>
                   <!-- COPY HEADING -->
                   <tr style="margin-bottom: 50px;">
+
                     <td bgcolor="#ffffff" align="left" style="padding: 0px 30px 0px 30px; color: #111111; font-family: "Poppins", sans-serif; font-size: 18px; font-weight: 400; line-height: 25px; text-align: center; margin-bottom: 50px;">
-                      <h2 style="font-size: 20px; font-weight: 400; margin: 0; "><a href="mailto:info@ercglobalmarkets.com"> info@ercglobalmarkets.com</a></h2>
+                      <h2 style="font-size: 20px; font-weight: 400; margin: 0; text-align: center;"><a href="mailto:info@ercglobalmarkets.com"> info@ercglobalmarkets.com</a></h2>
                       <br>
-                      <h2 style="font-size: 20px; font-weight: 400; margin: 0; "> <a href="tel:+525514163994">+(52) 55 1416 3994</a></h2>
+                      <h2 style="font-size: 20px; font-weight: 400; margin: 0; text-align: center;"> <a href="tel:+525514163994">+(52) 55 1416 3994</a></h2>
                     </td>
+
                   </tr>
                   <!-- COPY -->
                   

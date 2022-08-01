@@ -6,9 +6,9 @@
   <div class="container py-md-5 py-3">
     <div class="row bottom-ab-grids align-items-center">
       <div class="col-lg-6 bottom-ab-left">
-       
+        <br><br>
 
-        <h3 style="position:relative; top:70px;" class="sub-titlehny">Fondo de Inversión</h3>
+        <h3 class="sub-titlehny">Fondo de Inversión</h3>
         <h3 class="hny-title" style="margin-top:10%">Invierta en más de 22 fondos por los mejores administradores de dinero del mundo</h3>
         <!-- <a href="registro" class="btn btn-style btn-primary mt-4" style="margin-top:20px;">Abrir Cuenta</a> -->
         <a href="registro" class="btnOtro">Abrir Cuenta</a>
@@ -55,7 +55,7 @@
     <div class="container py-lg-4">
       <div class="header-section text-center mx-auto">
 
-        <h3 class="hny-title">Analicé, organiza y gestione sus operaciones con herramientas adaptadas a sus necesidades.</h3>
+        <h3 class="hny-title">Analicé, organicé y gestioné sus operaciones con herramientas adaptadas a sus necesidades.</h3>
       </div>
       <div class="grid-view ">
         <video autoplay="autoplay" class="video-fondo3" loop="loop" muted defaultMuted playsinline oncontextmenu="return false;" preload="auto" id="miVideo">
@@ -74,7 +74,7 @@
       </div>
       <div class="col-lg-6 bottom-ab-left">
 
-        <h3 class="hny-title">Accede a diferentes fondos con diferente inversión desde la misma cuenta </h3>
+        <h3 class="hny-title">Acceda a diferentes fondos con diferente inversión desde la misma cuenta </h3>
         <p class="my-3">Una alternativa rentable a los fondos de inversión elija entre más de 22 fondos que siguen índices o sectores de mercado específicos.</p>
         <br><br>
         <!-- <a href="register" class="btn btn-lg btn-style btn-primary"> Más Información</a> -->
@@ -114,19 +114,19 @@
         <div class="card">
           <div class="card-body p-0">
             <table class="table table-striped">
-              <thead>
+              <thead style="background-color:#FBB03B;">
                 <tr>
-                  <th>Clasificaciones</th>
-                  <th>Cuenta</th>
-                  <th>Nombre</th>
-                  <th>Dias abiertos</th>
-                  <th>Deposito minimo</th>
-                  <th>Recarga minima </th>
-                  <th>Ganar</th>
-                  <th>El mes pasado</th>
-                  <th>Semana pasada</th>
-                  <th>Reducción maxima</th>
-                  <th>acciones</th>
+                  <th style="font-family: Mulish; color:#3f3a64;" class="text-center">Clasificaciones</th>
+                  <th style="font-family: Mulish; color:#3f3a64;" class="text-center">Cuenta</th>
+                  <th style="font-family: Mulish; color:#3f3a64;" class="text-center">Nombre</th>
+                  <th style="font-family: Mulish; color:#3f3a64;" class="text-center">Días abiertos</th>
+                  <th style="font-family: Mulish; color:#3f3a64;" class="text-center">Depósito minimo</th>
+                  <th style="font-family: Mulish; color:#3f3a64;" class="text-center">Recarga minima </th>
+                  <th style="font-family: Mulish; color:#3f3a64;" class="text-center">Ganar</th>
+                  <th style="font-family: Mulish; color:#3f3a64;" class="text-center">El mes pasado</th>
+                  <th style="font-family: Mulish; color:#3f3a64;" class="text-center">Semana pasada</th>
+                  <th style="font-family: Mulish; color:#3f3a64;" class="text-center">Reducción maxima</th>
+                  <th style="font-family: Mulish; color:#3f3a64;" class="text-center">Acciones</th>
                 </tr>
               </thead>
               <tbody>

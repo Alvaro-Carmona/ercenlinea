@@ -144,9 +144,9 @@
   	<div class="container">
   		<div class="row">
   			<div class="col-md-12">
-  				<h2>Aquí hay algunas razones por las que <br>deberías elegir Cripto</h2>
+  				<h2 style="position:relative; top:-60px; font-weight:bold;">Aquí hay algunas razones por las que deberías elegir Cripto</h2>
   			</div>
-  			<div class="col-md-4">
+  			<div style="position:relative; top:-35px;" class="col-md-4">
   				<div class="landing-feature-item">
   					<!-- TradingView Widget BEGIN -->
   					<div class="tradingview-widget-container">
@@ -164,7 +164,7 @@
   					<!-- TradingView Widget END -->
   				</div>
   			</div>
-  			<div class="col-md-4">
+  			<div style="position:relative; top:-35px;" class="col-md-4">
   				<div class="landing-feature-item">
   					<!-- TradingView Widget BEGIN -->
   					<div class="tradingview-widget-container">
@@ -182,7 +182,7 @@
   					<!-- TradingView Widget END -->
   				</div>
   			</div>
-  			<div class="col-md-4">
+  			<div style="position:relative; top:-35px;" class="col-md-4">
   				<div class="landing-feature-item">
   					<!-- TradingView Widget BEGIN -->
   					<div class="tradingview-widget-container">

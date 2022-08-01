@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="vistas/css/botones.css">
+		
 		<!-- content -->
 		<div data-vide-bg="vistas/video/erc10" style="background-color: rgba(0, 0, 0, .6)">
 			<div class="center-container">
@@ -25,7 +27,7 @@ foreach ($fondo as $key => $value) {
 			
 			
 			<div class="more">
-				<a href=" '.$value["ruta"].'" class="hvr-shutter-in-vertical">  '.$value["nombre_boton"].'<span
+				<a  href=" '.$value["ruta"].'" class="hvr-shutter-in-vertical">  '.$value["nombre_boton"].'<span
 						class="glyphicon glyphicon-arrow-right"></span></a>
 			</div>
 		</div>

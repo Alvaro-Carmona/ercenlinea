@@ -32,7 +32,7 @@
                             </div>
                             <textarea name="Mensaje" class="form-control" id="Mensaje" placeholder="Mensaje" required=""></textarea>
                             <div class="text-right">
-                                <button type="submit" class="btn btn-primary btn-style mt-4">Enviar</button>
+                                <button type="submit" class="btn-cards mt-4" style="border-color: #ffff;">Enviar</button>
                             </div>
                         </form>
                     </div>

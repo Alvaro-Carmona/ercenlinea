@@ -1,12 +1,14 @@
-<link rel="stylesheet" href="vistas/css/botones.css">
 <link href="vistas/css/style3.css" rel="stylesheet" type="text/css" media="all" />
+<link rel="stylesheet" href="vistas/css/botones.css">
+<link href="vistas/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+
 <div class="w3ls-form" style="	margin-top: 50px;">
 
-    <form action="#" medthod="post">
+    <form action="#" medthod="post" autocomplete="off">
         <div class="datos-personales">
             <div class="w3l-head text-center">
                 <img src="vistas/img/logo-erc.png" alt="">
-                <h1 style="color:#fff;">Step 1. Informacion Personal</h1>
+                <h1 style="color:#fff; font-family: Mulish;">Step 1. Información Personal</h1>
             </div>
             <div class="w3l-last-grid1">
                 <div class="w3l-grid1">
@@ -29,7 +31,7 @@
                     <label class="text">Apellidos</label>
                     <div class="w3l-div">
                         <i class="fa fa-user" aria-hidden="true"></i>
-                        <input type="text" id="apellidos" placeholder="Apellidos" required="" />
+                        <input type="text" id="apellidos" placeholder="Apellidos" required=""  />
                     </div>
                 </div>
                 <div class="clear"></div>
@@ -49,8 +51,9 @@
                 <div class="w3l-grid2">
                     <label class="text">Fecha de Nacimiento</label>
                     <div class="w3l-div">
-                        <i class="fa fa-calendar" aria-hidden="true"></i>
-                        <input type="text" class="date" id="datepicker" name="datebirth" placeholder="dob" value="MM/DD/YYYY" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'MM/DD/YYYY';}" required="" />
+                        <!-- <i class="fa fa-calendar" aria-hidden="true"></i> -->
+                        <!-- <input type="text" class="date" id="datepicker" name="datebirth" placeholder="dob" value="MM/DD/YYYY" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'MM/DD/YYYY';}" required="" /> -->
+                        <input style="border: none; width: 93%;" type="date"  id="datepicker2" name="datebirth"  required="" />
                     </div>
                 </div>
                 <div class="clear"></div>
@@ -71,17 +74,16 @@
                     </div>
                 </div>
                 <div class="w3l-grid1">
-                    <label class="text">Pais</label>
+                    <label class="text">País</label>
                     <div class="w3l-div">
                         <i class="fa fa-flag" aria-hidden="true"></i>
 
-                        <select class="form-control" required="" id="inputPais">
+                        <select class="form-control" required="" id="inputPais" style="font-family: Mulish; color:#3f3a64;">
                             <option selected disabled>--Selecciona tu Pais--</option>
 
                         </select>
                     </div>
                 </div>
-
                 <div class="w3l-grid1">
                     <label class="text">Cuenta ERC</label>
                     <div class="w3l-div">
@@ -91,7 +93,7 @@
                 </div>
 
                 <div class="w3l-grid2">
-                    <label class="text">Telefono</label>
+                    <label class="text">Teléfono</label>
                     <div class="w3l-div">
                         <i class="fa fa-phone " aria-hidden="true"></i>
 
@@ -103,11 +105,12 @@
                         Plataforma ERC</label>
                     <div class="w3l-div">
                         <i class="fa fa-id-card" aria-hidden="true"></i>
-                        <select class="form-control" id="plataforma" required="">
+                        <select class="form-control" id="plataforma" required="" style="font-family: Mulish; color:#3f3a64;">
                             <option selected disabled>--Selecciona tu Plataforma ERC--</option>
                             <option value="cfd">CFDs Plataforma</option>
                             <option value="cripto">Cripto Plataforma</option>
-                            <option value="nft">NFT Plataforma</option>
+                            <option value="cripto">Fondo de Cobertura</option>
+                            <!-- <option value="nft">NFT Plataforma</option> -->
                         </select>
                     </div>
                 </div>
@@ -120,22 +123,22 @@
         <div class="direccion" style="display: none;">
             <div class="w3l-head text-center">
                 <img src="vistas/img/logo-erc.png" alt="">
-                <h1 style="color:#fff;">Paso 2. Direccion y Documentacion</h1>
+                <h1 style="color:#fff; font-family: Mulish; ">Paso 2. Dirección y Documentación</h1>
             </div>
 
             <div class="w3l-last-grid1">
                 <div class="w3l-grid1">
-                    <label class="text">Direccion</label>
+                    <label class="text">Dirección</label>
                     <div class="w3l-div">
                         <i class="fa fa-location-arrow" aria-hidden="true"></i>
-                        <input type="text" id="direccion" placeholder="direccion" required="" />
+                        <input style="font-family: Mulish; color:#3f3a64;" type="text" id="direccion" placeholder="direccion" required="" />
                     </div>
                 </div>
                 <div class="w3l-grid2">
                     <label class="text">Ciudad/Estado</label>
                     <div class="w3l-div">
                         <i class="fa fa-map-marker" aria-hidden="true"></i>
-                        <input type="text" id="ciudad" placeholder="Ciudad/Estado" required="" />
+                        <input style="font-family: Mulish; color:#3f3a64;" type="text" id="ciudad" placeholder="Ciudad/Estado" required="" />
                     </div>
                 </div>
                 <div class="clear"></div>
@@ -143,10 +146,10 @@
 
             <div class="w3l-right-grid1">
                 <div class="w3l-grid2">
-                    <label class="text">Codigo Postal</label>
+                    <label class="text">Código Postal</label>
                     <div class="w3l-div">
                         <i class="fa fa-address-card-o" aria-hidden="true"></i>
-                        <input type="text" id="cp" placeholder="postal" required="" />
+                        <input style="font-family: Mulish; color:#3f3a64;" type="text" id="cp" placeholder="postal" required="" />
                     </div>
                 </div>
                 <div class="w3l-grid1">
@@ -154,7 +157,7 @@
                         Documento de ID</label>
                     <div class="w3l-div">
                         <i class="fa fa-id-card" aria-hidden="true"></i>
-                        <select class="form-control" required="" id="documento-id">
+                        <select class="form-control" required="" id="documento-id" style="font-family: Mulish; color:#3f3a64;">
                             <option selected disabled>--Selecciona tu Documento de Identificacion--</option>
                             <option value="cedula">Cedula de Identificacion </option>
                             <option value="identificacion">Identificacion Oficial</option>
@@ -168,21 +171,21 @@
                         <div class="col-lg-12 text-left">
                             <label class="text"> Imagen Documento Frontal</label>
                             <div class="">
-                                <input type="file" class="dropify" data-max-file-size="5M" id="frontal" required>
+                                <input style="font-family: Mulish; color:#3f3a64;" type="file" class="dropify" data-max-file-size="5M" id="frontal" required>
                             </div>
                         </div>
                         <div class="col-lg-12">
                             <label class="text"> Imagen Trasera Documento</label>
                             <div class="card-body">
-                                <input type="file" class="dropify" data-max-file-size="5M" id="trasera" required>
+                                <input style="font-family: Mulish; color:#3f3a64;" type="file" class="dropify" data-max-file-size="5M" id="trasera" required>
                             </div>
                         </div>
-                        <br>
+                        <!-- <br> -->
                         <div class="col-lg-12">
                             <label class="text">
                                 Comprobante de Domicilio</label>
                             <div class="card-body">
-                                <input type="file" class="dropify" data-max-file-size="5M" id="comprobante" required>
+                                <input style="font-family: Mulish; color:#3f3a64;" type="file" class="dropify" data-max-file-size="5M" id="comprobante" required>
                             </div>
                         </div>
                     </div>
@@ -193,7 +196,7 @@
                     <div class="col-lg-12">
                         <label class="text"> Imagen Documento Frontal </label>
                         <div class="card-body">
-                            <input type="file" class="dropify" data-max-file-size="5M" id="frontal" required>
+                            <input style="font-family: Mulish; color:#3f3a64;" type="file" class="dropify" data-max-file-size="5M" id="frontal" required>
                         </div>
                     </div>
 
@@ -201,7 +204,7 @@
                         <label class="text">
                             Comprobante de Domicilio</label>
                         <div class="card-body">
-                            <input type="file" class="dropify" data-max-file-size="5M" id="comprobante" required>
+                            <input style="font-family: Mulish; color:#3f3a64;" type="file" class="dropify" data-max-file-size="5M" id="comprobante" required>
                         </div>
                     </div>
 
@@ -211,29 +214,30 @@
                     <label class="text">Industria/Sector</label>
                     <div class="w3l-div">
                         <i class="fa fa-id-card" aria-hidden="true"></i>
-                        <select class="form-control" id="inputProfesiones" required="">
+                        <select class="form-control" id="inputProfesiones" required="" style="font-family: Mulish; color:#3f3a64;">
                             <option selected disabled>--Selecciona tu Sector--</option>
 
                         </select>
                     </div>
                 </div>
                 <div class="w3l-grid2" style="padding-top:30px;">
-                    <label class="text">Profesion</label>
+                    <label class="text">Profesión</label>
                     <div class="w3l-div">
                         <i class="fa fa-address-card-o" aria-hidden="true"></i>
-                        <input type="text" id="profesion" placeholder="Profesion" required="" />
+                        <input style="font-family: Mulish; color:#3f3a64;" type="text" id="profesion" placeholder="Profesion" required="" />
                     </div>
                 </div>
+               
                 <div class="w3l-grid1" style="margin-top:30px;">
                     <label class="text">¿Eres residente de Estados Unidos de America?</label>
                     <ul class="radio-section">
                         <li>
-                            <input type="radio" id="a-option" value="si" name="selector1">
+                            <input style="font-family: Mulish; color:#3f3a64;" type="radio" id="a-option" value="si" name="selector1">
                             <label for="a-option" style="color:#fff; font-weight: 800;">Si</label>
                             <div class="check"></div>
                         </li>
                         <li>
-                            <input type="radio" id="b-option" value="no" name="selector1">
+                            <input style="font-family: Mulish; color:#3f3a64;" type="radio" id="b-option" value="no" name="selector1">
                             <label for="b-option" style="color:#fff; font-weight: 800;">No</label>
                             <div class="check">
                                 <div class="inside"></div>
@@ -241,16 +245,17 @@
                         </li>
                     </ul>
                 </div>
+                
                 <div class="w3l-grid2" style="margin:30px 0px;">
                     <label class="text">¿Eres el beneficiario de los fondos a utlizar en ERC?</label>
                     <ul class="radio-section">
                         <li>
-                            <input type="radio" id="a-option1" name="selector2" value="si">
+                            <input style="font-family: Mulish; color:#3f3a64;" type="radio" id="a-option1" name="selector2" value="si">
                             <label for="a-option" style="color:#fff; font-weight: 800;">Si</label>
                             <div class="check"></div>
                         </li>
                         <li>
-                            <input type="radio" id="b-option1" name="selector2" value="no">
+                            <input style="font-family: Mulish; color:#3f3a64;" type="radio" id="b-option1" name="selector2" value="no">
                             <label for="b-option" style="color:#fff; font-weight: 800;">No</label>
                             <div class="check">
                                 <div class="inside"></div>
@@ -270,25 +275,25 @@
 
                     <div class="checkbox" style="width:100%;">
 
-                        <input type="checkbox" id="aceptarTerminos">
+                        <input style="font-family: Mulish; color:#3f3a64;" type="checkbox" id="aceptarTerminos">
 
                         <label for="aceptarTerminos" style="color:#fff; font-size:20px;">
                             <span>Acepto los términos y condiciones y la Política de Privacidad y doy mi consentimiento para
                                 tratar mis datos personales.</span>
                         </label>
-                        <br>
+                        <!-- <br> -->
 
                     </div>
                     <br>
                     <div class="checkbox" style="width:100%;">
 
-                        <input type="checkbox" id="aceptarTerminos2">
+                        <input style="font-family: Mulish; color:#3f3a64;" type="checkbox" id="aceptarTerminos2">
 
-                        <label for="aceptarTerminos" style="color:#fff; font-size:20px;">
+                        <label for="aceptarTerminos2" style="color:#fff; font-size:20px;">
                             <span>
                                 Confirmo que esta cuenta de trading solo la controlo yo.</span>
                         </label>
-                        <br>
+                        <!-- <br> -->
 
                     </div>
 
@@ -297,8 +302,8 @@
 
             </div>
             <div class="w3ls-submit">
-                <input type="button" class="anterior" value="Anterior">
-                <input type="button" class="guardarRegistro" value="Aperturar Cuenta">
+                <input style="font-family: Mulish; color:#3f3a64;" type="button" class="anterior" value="Anterior">
+                <input style="font-family: Mulish; color:#3f3a64;" id="btnOpenCount" type="button" class="guardarRegistro" value="Aperturar Cuenta">
             </div>
         </div>
     </form>

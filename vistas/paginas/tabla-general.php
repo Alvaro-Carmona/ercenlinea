@@ -24,10 +24,10 @@ if ($_GET["idTabla"] == "criptomonedas") {
               <tr>
                 <th style="font-family: Mulish; color:#3f3a64;" class="text-center">Nombre</th>
                 <th style="font-family: Mulish; color:#3f3a64;" class="text-center">Producto</th>
-                <th style="font-family: Mulish; color:#3f3a64;" class="text-center">Spreads minimos</th>
-                <th style="font-family: Mulish; color:#3f3a64;" class="text-center">Tamaño de lotes</th>
-                <th style="font-family: Mulish; color:#3f3a64;" class="text-center">Tamaño de contrato</th>
-                <th style="font-family: Mulish; color:#3f3a64;" class="text-center">Valor pip </th>
+                <th style="font-family: Mulish; color:#3f3a64;" class="text-center">Spreads Minimos</th>
+                <th style="font-family: Mulish; color:#3f3a64;" class="text-center">Tamaño de Lotes</th>
+                <th style="font-family: Mulish; color:#3f3a64;" class="text-center">Tamaño de Contrato</th>
+                <th style="font-family: Mulish; color:#3f3a64;" class="text-center">Valor Pip </th>
                 <th style="font-family: Mulish; color:#3f3a64;" class="text-center">Divisa</th>
                 <th style="font-family: Mulish; color:#3f3a64;" class="text-center">Cuentas 1400</th>
                 <th style="font-family: Mulish; color:#3f3a64;" class="text-center">Cuentas 1200</th>
@@ -82,18 +82,18 @@ if ($_GET["idTabla"] == "criptomonedas") {
               <tr>
                 <th style="font-family: Mulish; color:#3f3a64;" class="text-center">Nombre</th>
                 <th style="font-family: Mulish; color:#3f3a64;">Producto</th>
-                <th style="font-family: Mulish; color:#3f3a64;">Spreads minimos</th>
-                <th style="font-family: Mulish; color:#3f3a64;">Tamaño de lotes</th>
-                <th style="font-family: Mulish; color:#3f3a64;">Tamaño  contrato</th>
-                <th style="font-family: Mulish; color:#3f3a64;" nowrap>valor pip </th>
+                <th style="font-family: Mulish; color:#3f3a64;">Spreads Minimos</th>
+                <th style="font-family: Mulish; color:#3f3a64;">Tamaño de Lotes</th>
+                <th style="font-family: Mulish; color:#3f3a64;">Tamaño  Contrato</th>
+                <th style="font-family: Mulish; color:#3f3a64;" nowrap>Valor Pip </th>
                 <th style="font-family: Mulish; color:#3f3a64;">Divisa</th>
                 <th style="font-family: Mulish; color:#3f3a64;" class="text-center">Cuentas 1400</th>
                 <th style="font-family: Mulish; color:#3f3a64;" class="text-center">Cuentas 1200</th>
                 <th style="font-family: Mulish; color:#3f3a64;" class="text-center">Cuentas 1100</th>
                 <th style="font-family: Mulish; color:#3f3a64;">Swaps</th>
-                <th style="font-family: Mulish; color:#3f3a64;" nowrap>inicio de sesión</th>
-                <th style="font-family: Mulish; color:#3f3a64;" nowrap>cierre de sesión</th>
-                <th style="font-family: Mulish; color:#3f3a64;" nowrap>Pausa del trading</th>
+                <th style="font-family: Mulish; color:#3f3a64;" nowrap>Inicio de Sesión</th>
+                <th style="font-family: Mulish; color:#3f3a64;" nowrap>Cierre de Sesión</th>
+                <th style="font-family: Mulish; color:#3f3a64;" nowrap>Pausa del Trading</th>
 
 
               </tr>

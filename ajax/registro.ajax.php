@@ -60,6 +60,12 @@ require_once "../modelos/usuarios.modelo.php";
 
 	}
 
+	function validaEmail(){
+		$respuesta = UsuarioControlador::ctrvalidaEmail($this->email);
+
+		echo $respuesta;
+	}
+
 
 
 }
@@ -91,6 +97,14 @@ if(isset($_POST["nombre"])){
 	
     $informacion -> AjaxRegistrarUsuario();
 
+
+}
+
+
+if(isset($_POST["correo"])){
+	$informacion = new AjaxRegistro();
+	$informacion ->email = $_POST["correo"];
+	$informacion -> validaEmail();
 
 }
 

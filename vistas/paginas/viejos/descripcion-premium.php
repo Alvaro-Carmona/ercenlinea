@@ -93,7 +93,7 @@
                     <div class="price-inner card box-shadow">
 
                         <div class="card-body-estandar">
-                            <h4 style="font-size:40px;" class=" mb-3">Estandar</h4>
+                            <h4 class=" mb-3">Estandar</h4>
                             <h5 class="card-title pricing-card-title">
                                 500 USD<span class="align-top">
                                     Depósito mínimo</span>
@@ -120,7 +120,7 @@
                 <div class="col-lg-4 col-md-6 price-main-info mt-md-0 mt-4">
                     <div class="price-inner card box-shadow ">
                         <div class="card-body-premium">
-                            <h4 style="font-size:40px;" class=" mb-3">Premium</h4>
+                            <h4 class=" mb-3">Premium</h4>
                             <h5 class="card-title pricing-card-title">
                                 1000 USD<span class="align-top">
                                     Depósito mínimo</span>
@@ -149,7 +149,7 @@
                     <div class="price-inner card box-shadow">
 
                         <div class="card-body">
-                            <h4 style="font-size:40px;" class=" mb-3">Profecional</h4>
+                            <h4 class=" mb-3">Profecional</h4>
                             <h5 class="card-title pricing-card-title">
                                 5000 USD<span class="align-top">
                                     Depósito mínimo</span>

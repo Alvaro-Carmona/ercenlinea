@@ -11,8 +11,11 @@
               <img class="imagen" src="vistas/img/logo-erc.png" alt="">
             </a>
             <br>
-          </div>
             <br>
+            <br>
+            
+          </div>
+         
           <p class="texto">En ERC, la seguridad de los datos de nuestros clientes es una prioridad para nosotros y contamos con medidas de seguridad diseñada para proteger su información personal y fondos. </p>
           <div class="main-social-footer-29 mt-md-4 mt-3">
             <a href="https://www.facebook.com/ercglobalmarkets" class="facebook"><span class="fa fa-facebook"></span></a>
@@ -22,42 +25,37 @@
             <a href="https://www.youtube.com/channel/UCHgT5Iv01w24yoOWdj_ljIw" class="youtube"><span class="fa fa-youtube"></span></a>
           </div>
         </div>
-      <!----------------------error del espacio en blanco---------------------------------->
+
         <div class="col-lg-4 col-md-6 footer-list-29 footer-1 pr-lg-5 mt-md-0 mt-5">
-          <h6  class="footer-title-29">Soporte</h6>
-          <p class="numero_t" class="mb-2">Número Telefonico:<a href="tel:+(52) 55 14 16 39 94">+(52) 5514163994</a></p>
-          <p class="correo">Correo:<a href="mailto:info@eartcoins.com">info@ercglobalmarkets.com</a></p>
-          <p class="">Soporte:<a href="mailto:support@eartcoins.com">support@ercglobalmarkets.com</a></p>
+          <h6 class="footer-title-29">Soporte</h6>
+          <p class="mb-2">Número Telefonico:<a href="tel:+(52) 55 14 16 39 94">+(52) 5514163994</a></p>
+          <p class="mb-2">Correo:<a href="mailto:info@eartcoins.com">info@ercglobalmarkets.com</a></p>
+          <p>Soporte:<a href="mailto:support@eartcoins.com">support@ercglobalmarkets.com</a></p>
         </div>
         
         <div class="col-lg-2 col-md-6 col-sm-5 col-6 footer-list-29 footer-2 mt-lg-0 mt-5">
           <ul>
-          <h6 class="footer-title-29">Links Rapidos</h6>
-            <li><a href="sobre-erc">Sobre ERC</a></li>
-            <li><a href="cuentas-erc">Cuentas ERC</a></li>
+            <h6 class="footer-title-29">Links Rapidos</h6>
+            <li style="text-indent: 2em; width: 900px;"><a href="sobre-erc">Sobre ERC</a></li>
+            <li style="text-indent: 2em; width: 900px;"><a href="cuentas-erc">Cuentas ERC</a></li>
            <!-- <li><a href="soporte">Soporte </a></li>
             <li><a href="erc-negocios">ERC Negocios </a></li> -->
-            <li><a href="negocio-erc">ERC Negocios </a></li>
-            <br>
+            <li style="text-indent: 2em; width: 900px;"><a href="negocio-erc">ERC Negocios </a></li>
           </ul>
         </div>
 
-        <div class="col-lg-1 col-md-6 col-sm-5 col-6 footer-list-29 footer-2 mt-lg-0 mt-5">
+        <div class="col-lg-2 col-md-6 col-sm-5 col-6 footer-list-29 footer-2 mt-lg-0 mt-5">
           <ul>
           
-          <h6 style="position:absolute; left:50px;" class="footer-title-29">Plataformas</h6>
-          <br><br><br>  <br> 
-          <li style="width:300%; position:absolute; left:50px;"><a  href="plataforma-cfds"> Plataforma CFDS </a></li>
-          <br><br>  
-          <li style="width:300%; position:absolute; left:50px;"><a href="plataforma-cripto">Platafroma Cripto </a></li>
-          <br><br>   
-          <li style="width:300%; position:absolute; left:50px;"><a href="paltaforma-nft">Plataforma NFTS </a></li>
-            <br>
+            <h6 style="text-indent: 3em;" class="footer-title-29">Plataformas</h6>
+            <li style="text-indent: 5em; width: 700px;"><a href="plataforma-cfds"> Plataforma CFDS </a></li>
+            <li style="text-indent: 5em; width: 900px;"><a style="text-indent: 3em;" href="plataforma-cripto">Platafroma Cripto </a></li>
+            <li style="text-indent: 5em; width: 900px;"><a style="text-indent: 3em;" href="paltaforma-nft">Plataforma NFTS </a></li>
           </ul>
         </div>
 
       </div>
-        <p class="espacio"></p>
+
     </div>
   </div>
   <!-- copyright -->
@@ -131,40 +129,15 @@
 
 <!--estilos-->
 <style>
-  /*.plataformas{
-    position: absolute;
-    top: 524%;
-    left: 75%;
-  }
-  .links{
-    position: absolute;
-    top: 524%;
-    left: 63%;
-  }
-  .soporte{
-    position: absolute;
-    top: 524%;
-    left: 41%;
-  }*/
   .imagen{
     position: relative;
     top: -12px;
   }
   .texto{
-    position: absolute;
-    top: 80px;
-   
-  }
-  .espacio{
-    padding:30px;
+    position: relative;
+    top: -20px;
   }
   .footer-title-29{
-   position:absolute;
-   width:200%;
+    width: 200px;
   }
-  .main-social-footer-29{
-    position:absolute;
-    top:240px;
-  }
-  
 </style>

@@ -46,7 +46,7 @@
             <div class="col-lg-12 bottom-ab-left">
                 <h3 class="sub-titlehny">Materias Primas</h3>
 
-                <h3 class="hny-title" style="font-family: Mulish; color:#3f3a64;">Con ERC puedes invertir en las Materias Primas mas cotizadas en el mercado.</h3>
+                <h3 class="hny-title" style="font-family: Mulish; color:#3f3a64;">Con ERC puedes invertir en las Materias Primas más cotizadas en el mercado.</h3>
                 <p class="my-3">Los commodities se negocian en los mercados financieros regulados por un intermediario central como una bolsa de valores o mediante el mercado OTC (Over The Counter o mercado mostrador) en el cual se hacen contratos a la medida de las partes y sin necesidad de un intermediario.</p>
 
             </div>
@@ -165,7 +165,7 @@
                 <br>
                 <br>
 
-                <h3 class="hny-title" style="font-family: Mulish; color:#3f3a64;">¿Porque invertir en Materias Primas? </h3>
+                <h3 class="hny-title" style="font-family: Mulish; color:#3f3a64;">¿Por qué invertir en Materias Primas? </h3>
                 <p class="my-3">A pesar de ser producidos, cosechados o encontrados en modo natural en diversos países, todos conservan igual calidad y precio. Están regidos por la oferta y la demanda.</p>
 
             </div>

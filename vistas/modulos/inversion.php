@@ -54,7 +54,7 @@
       <div class="col-lg-7 bottom ">
         <br>
         <br>
-        <h4 class="sub-titlehny">Autogestión</h4>
+        <h3 class="sub-titlehny" style="font-size: 30px;">Autogestión</h3>
 
         <h3 class="hny-title"> Una cartera gestionada es un conjunto de inversiones que se seleccionan y ajustan automáticamente en función de las oportunidades del mercado.</h3>
         <p class="my-3">Cada cartera atiende a un nivel de riesgo diferente, que va de bajo a alto, y sigue una estrategia de inversión adecuada a sus objetivos y perfil. Puede monitorear sus inversiones las 24 horas del día a través de nuestra plataforma y retirar en cualquier momento sin costo adicional.</p>

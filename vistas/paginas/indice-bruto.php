@@ -50,9 +50,9 @@
       </div>
 
       <div class="col-lg-6 bottom-ab-left">
-        <h3 class="sub-titlehny">Indices Bursátiles</h3>
+        <h3 class="sub-titlehny">Índices Bursátiles</h3>
 
-        <h3 class="hny-title" style="font-family: Mulish; color:#3f3a64;">Conoce de la mano de un experto como invertir en Indices Bursatiles</h3>
+        <h3 class="hny-title" style="font-family: Mulish; color:#3f3a64;">Conoce de la mano de un experto cómo invertir en Índices Bursátiles</h3>
         <p class="my-3">Son indicadores de la bolsa de valores que actúa como un termómetro: tiene la capacidad de hacernos ver, en un solo vistazo, el movimiento mayoritario de las empresas de dicho mercado. </p>
 
       </div>
@@ -66,8 +66,8 @@
   <div class="container py-md-5 py-3">
     <div class="row bottom-ab-grids align-items-center">
       <div class="col-lg-6 bottom-ab-left">
-        <h3 class="sub-titlehny">¿Porque invertir en Indices Bursatiles?</h3>
-        <h3 class="hny-title" style="font-family: Mulish; color:#3f3a64;">Invierte en Indices Bursatiles en tu Plataforma ERC. </h3>
+        <h3 class="sub-titlehny">¿Por qué invertir en Índices Bursátiles?</h3>
+        <h3 class="hny-title" style="font-family: Mulish; color:#3f3a64;">Invierte en Índices Bursátiles en tu Plataforma ERC. </h3>
         <p class="my-3">Existen múltiples índices en todo el mundo y son de gran importancia para poder analizar cómo varía el precio de una serie de activos cotizados con unas características determinadas.</p>
 
       </div>

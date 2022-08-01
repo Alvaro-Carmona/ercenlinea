@@ -26,10 +26,14 @@
     <!-- </div> -->
     <!-- end .container -->
 <!-- </section> -->
+<br>
+<br>
+<br>
+<br>
 <section class="w3l-products py-5 mb-4" id="talks">
   <div class="container py-lg-3">
       <div class="header-section  mx-auto">
-        <h2 style="font-family: Mulish; color:#3f3a64;">DEPOSITOS </h2> 
+        <h2 style="font-family: Mulish; color:#3f3a64;">DEPÓSITOS </h2> 
         <h3 style="font-size:20px;" style="font-family: Mulish; color:#3f3a64;">Disfrute de nuestra amplia gama de opciones para colocar fondos en su cuenta y empezar a operar.</h3>
          
       </div>
@@ -130,7 +134,7 @@
             <div class="col-lg-4"></div>
             <div class="col-lg-4">
               <!-- <a href="registro" class="btn btn-style btn-primary">Hacer Deposito</a> -->
-              <a href="registro" class="btnOtro">Hacer Deposito</a>
+              <a href="registro" class="btnOtro">Hacer Depósito</a>
             </div>
           </div>
           

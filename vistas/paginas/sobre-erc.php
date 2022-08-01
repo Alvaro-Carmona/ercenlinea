@@ -182,7 +182,7 @@
     <!-- grids block 5 -->
     <section class="w3l-timeline-1 py-5" id="profile">
       <div class="container py-lg-5 py-md-4 py-3">
-        <h3 class="title-big mb-md-5 mb-4 text-center">ERC A lo largo de la historia</h3>
+        <h3 class="title-big mb-md-5 mb-4 text-center">ERC a lo largo de la historia</h3>
         <div class="row example-centered">
           <div class="col-sm-10 mx-auto">
             <ul class="timeline timeline-centered">

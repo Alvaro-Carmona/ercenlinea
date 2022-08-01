@@ -85,6 +85,13 @@
     border-color: #003366;
   }
 
+  .color1:hover{
+    background-color: #003366;
+    color: #fff;
+
+  }
+
+
 /*========================================================*/
 
 .btn-outline-primary2 {

@@ -4,6 +4,15 @@ require_once "conexion.php";
 
 class ModeloUsuarios{
 
+
+	static function mdlvalidaEmail($tabla, $email){
+		$stmt = Conexion::conectar()->prepare("SELECT * FROM $tabla WHERE email_u=:email");
+		$stmt->bindParam(":email",$email, PDO::PARAM_STR);
+		$stmt -> execute();
+		return $stmt -> fetch();
+
+	}
+
 /*=============================================
 	Nueva habitación
 	=============================================*/

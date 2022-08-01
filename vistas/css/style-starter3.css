@@ -2723,7 +2723,8 @@ mark,
 
 .initialism {
   font-size: 90%;
-  text-transform: uppercase; }
+  /* text-transform: uppercase; */
+ }
 
 .blockquote {
   margin-bottom: 1rem;
@@ -9386,8 +9387,9 @@ button.bg-dark:focus {
 .text-lowercase {
   text-transform: lowercase !important; }
 
-.text-uppercase {
-  text-transform: uppercase !important; }
+/* .text-uppercase {
+  text-transform: uppercase !important;
+ } */
 
 .text-capitalize {
   text-transform: capitalize !important; }
@@ -9979,7 +9981,7 @@ a.brand-logo img {
   font-size: 19px;
   color: var(--title-color);
   font-weight: bold;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   margin-bottom: 12px;
   border-bottom: 1px solid #e6e6e6;
   padding-bottom: 8px;
@@ -10074,7 +10076,7 @@ a.brand-logo img {
   display: none; }
 
 .w3l-header .side-menu-hny label.menuclose {
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   text-align: center; }
 
 .w3l-header .side-menu-hny label.menuclose:hover {

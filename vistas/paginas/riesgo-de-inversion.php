@@ -1,15 +1,17 @@
  <!-- Template CSS -->
  <link rel="stylesheet" href="vistas/css/style-starter3.css">
+ <link rel="stylesheet" href="vistas/css/botones.css">
+ <link href="vistas/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 
  <div class="w3l-faq-block py-5">
      <div class="container py-lg-5">
          <div class="header-section mb-4">
-             <h3>Politicas de Privacidad</h3>
+             <h3 style="font-family: Mulish; color:#3f3a64; text-align:center;">Riesgos de Inversión</h3>
          </div>
          <div class="row">
              <div class="col-md-4">
                  <div class="list-group" id="list-tab" role="tablist">
-                     <a class="list-group-item list-group-item-action" id="list-home-list" data-toggle="list" href="#list-home" role="tab" aria-controls="home">Politicas de Privacidad</a>
+                     <a class="list-group-item list-group-item-action" id="list-home-list" data-toggle="list" href="#list-home" role="tab" aria-controls="home">Políticas de Privacidad</a>
                  </div>
              </div>
              <div class="col-md-8 mt-md-0 mt-5">
@@ -20,7 +22,7 @@
                              <li>
                                  <input type="checkbox" checked>
                                  <i></i>
-                                 <h2>Seguridad y Divulgación</h2>
+                                 <h2 style="font-family: Mulish; color:#3f3a64;">Seguridad y Divulgación</h2>
                                  <p>La empresa respeta el derecho a la privacidad de cada individuo. Valoramos nuestra
                                      relación con usted y tomamos todas las medidas necesarias para mantener la lealtad y el
                                      respeto con cada cliente individual, brindándole seguridad. Las disposiciones de este aviso
@@ -29,7 +31,7 @@
                              <li>
                                  <input type="checkbox" checked>
                                  <i></i>
-                                 <h2>Información personal.</h2>
+                                 <h2 style="font-family: Mulish; color:#3f3a64;">Información personal.</h2>
                                  <p>
                                      Cuando solicita mantener una cuenta activa con la empresa, recopilamos información
                                      personal sobre usted para fines comerciales, como: evaluar sus necesidades financieras,
@@ -50,7 +52,7 @@
                              <li>
                                  <input type="checkbox" checked>
                                  <i></i>
-                                 <h2>Sobre las cookies</h2>
+                                 <h2 style="font-family: Mulish; color:#3f3a64;">Sobre las cookies</h2>
                                  <p>Las cookies son pequeños archivos que contienen información que el sitio web utiliza para
                                      rastrear a sus visitantes. La empresa puede configurar y acceder a las cookies
                                      empresariales en su computadora, lo que nos permite conocer qué anuncios y
@@ -63,7 +65,7 @@
                              <li>
                                  <input type="checkbox" checked>
                                  <i></i>
-                                 <h2>Tecnología de seguridad</h2>
+                                 <h2 style="font-family: Mulish; color:#3f3a64;">Tecnología de seguridad</h2>
                                  <p>La empresa utiliza la tecnología de encriptación Secure Socket Layer (SSL) para proteger
                                      cierta información que usted envía. Este tipo de tecnología lo protege de que su
                                      información sea interceptada por otra persona que no sea la empresa mientras se nos
@@ -82,9 +84,9 @@
          </div>
 
          <div class="header-section text-center">
-        <h3>¿Quieres conocer màs sobre nuestras Politicas de Privacidad?</h3>
-        <p class="mt-3 mb-5">Si deseas concoer todo nuestro documento de politicas de privacidad por favor da clic en el siguiente boton.</p>
-        <a href="Politica-de-Privacidad.pdf" target="_blank" class="btn btn-primary theme-button">Descargar Documento</a>
+        <h3 style="font-family: Mulish; color:#3f3a64;">¿Quieres conocer màs sobre los Riesgos de Inversión?</h3>
+        <p class="mt-3 mb-5">Si deseas conocer todo nuestro documento de riesgos de inversión por favor da clic en el siguiente boton.</p>
+        <a href="documentos/riesgo-inversion.pdf" target="_blank" class="btnOtroLargo theme-button">Descargar Documento</a>
       </div>
      </div>
 

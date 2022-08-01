@@ -64,8 +64,8 @@
             <div class="col-lg-4 col-md-6 grids-feature mt-md-0 mt-4">
                 <div class="area-box box-active">
                     <span class="fa fa-bar-chart"></span>
-                    <h4><a href="#feature" class="title-head">2. Deposito Inicial </a></h4>
-                    <p>Para poder acceder a una cuenta de Fondo de cobertura el deposito minimo es de $1000.USD.</p>
+                    <h4><a href="#feature" class="title-head">2. Depósito Inicial </a></h4>
+                    <p>Para poder acceder a una cuenta de Fondo de cobertura el depósito minimo es de $1000.USD.</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 grids-feature mt-lg-0 mt-4">
@@ -95,7 +95,7 @@
                     <p class="mb-md-5 mb-4">ERC te ofrece una tarjeta de debito exclusiva para poder disponer los beneficios de tu cuenta de cobertura.
                     </p>
                     <div class="progress-info info1">
-                        <h6 class="progress-tittle">Deposito Minimo <span class="">5,000 USD</span></h6>
+                        <h6 class="progress-tittle">Depósito Minimo <span class="">5,000 USD</span></h6>
                         <div class="progress">
                             <div class="progress-bar progress-bar-striped" role="progressbar" style="width: 80%"
                                 aria-valuenow="90" aria-valuemipxn="0" aria-valuemax="100">

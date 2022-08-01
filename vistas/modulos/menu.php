@@ -49,18 +49,18 @@
 
 					<div class="row">
 
-						<div class=" col-2 col-lg-2">
+						<div class=" col-2 col-lg-1">
 
 							<!-- <h2><a href="registro">50%off</a></h2> -->
+							<h2><a href="registro">Participar</a></h2>
 
 						</div>
+						<div class="col-lg-1"></div>
+			
 
 						<div class="col-10 col-lg-10 promociones-2">
-
-							<!-- <h2> use nuestro codigo "big61" y obten un bono de 15% al depositar más de 1000 USD -->
-
-							</h2>
-
+							<!-- <h2> use nuestro codigo "big61" y obten un bono de 15% al depositar más de 1000 USD </h2>-->
+							<h2 style="font-family: Mulish;">PARTICIPA EN NUESTRA PROMOCIÓN DEL MES Y GANA HASTA 2 ETHEREUM (ETH)*</h2>
 						</div>
 
 					</div>
@@ -97,66 +97,75 @@
 
 	<!-- Modal -->
 
-	<div class="modal modal-fill fade" data-backdrop="false" id="modal-fill" tabindex="-1" style="background-color: rgba(0, 0, 0, .9);">
-
-		<div class="modal-dialog">
-
-			<div class="modal-content">
-
-				<div class="modal-header">
-
-					<img src="vistas/img/logo-erc1.png" alt="">
-				</div>
-
-				<div class="modal-body text-center">
-
-					<h3 style="color:#000;">Selecciona la plataforma a la que deseas ingresar, recuerda que al registrarte seleccionaste una plataforma ERC</h3>
-
-					<div class="row">
-
-						<div class="col-lg-4 text-center">
-
-							<img src="vistas/img/cfds01.png" style="width:80%;" alt="">
 
 
 
-							<a href="https://erc-td.ercglobalmarkets.com" target="_blank" rel="noopener noreferrer"><button type="button" class="btnModal ">Ingresar</button></a>
 
-						</div>
 
-						<div class="col-lg-4 text-center">
+	<div class="modal modal-fill fade" data-backdrop="false" id="modal-fill" tabindex="-1" style=" background-color: rgba(0, 0, 0, .9);">
 
-							<img src="vistas/img/crypto01.png" style="width:80%;" alt="">
+<div class="modal-dialog">
 
-							<a href="https://erc-crypto.ercglobalmarkets.com" target="_blank" rel="noopener noreferrer"><button type="button" class="btnModal float-end">Ingresar</button></a>
+	<div class="modal-content">
 
-						</div>
+		<div class="modal-header">
 
-						<div class="col-lg-4 text-center">
+			<img src="vistas/img/logo-erc1.png" alt="">
+		</div>
 
-							<img src="vistas/img/nft01.png" style="width:80%;" alt="">
-
-							<a href="https://erc-nft.ercglobalmarkets.com" target="_blank" rel="noopener noreferrer"><button type="button" class="btnModal float-end">Ingresar</button></a>
-
-						</div>
-
+		<div class="modal-body text-center">
+		   
+			<h3 class="" style="color:#000; font-family:mulish;">Selecciona la plataforma a la que deseas ingresar, recuerda que al registrarte seleccionaste una plataforma ERC</h3>
+			
+			<div class="row">
+		 
+				<div class="col-lg-6 ">
+				   <div class="imgm">
+					<a  href="https://erc-td.ercglobalmarkets.com"><img class="cfd" href="https://erc-td.ercglobalmarkets.com" src="vistas/img/cfds01.png" style="width:145px;" alt=""></a>
+					<a  href="https://erc-crypto.ercglobalmarkets.com"><img class="crypto" href="https://erc-td.ercglobalmarkets.com" src="vistas/img/crypto01.png" style="width:145px" alt=""></a>
+					<a   href="https://erc-nft.ercglobalmarkets.com"><img class="nft" src="vistas/img/nft01.png" style="width:145px;" alt=""></a>
 					</div>
+					<!-- <a href="https://erc-td.ercglobalmarkets.com" target="_blank" rel="noopener noreferrer"><button type="button" class="btnModal ">Ingresar</button></a> -->
 
 				</div>
 
-				<div class="modal-footer">
+				<div class="col-lg-6 text-center">
 
-					<button type="button" class="btn btn-danger" style="border-radius: 40px;" data-dismiss="modal">Regresar</button>
+				
 
+					<!-- <a href="https://erc-crypto.ercglobalmarkets.com" target="_blank" rel="noopener noreferrer"><button type="button" class="btnModal float-end">Ingresar</button></a> -->
 
+				</div>
 
+				<div class="col-lg-6 text-center">
+
+					
+
+					<!-- <a href="https://erc-nft.ercglobalmarkets.com" target="_blank" rel="noopener noreferrer"><button type="button" class="btnModal float-end">Ingresar</button></a> -->
+					<style>
+						
+					</style>
 				</div>
 
 			</div>
 
 		</div>
 
+		<div class="modal-footer">
+
+			<button type="button" class="btn btn-danger" style="border-radius: 40px;" data-dismiss="modal">Regresar</button>
+		   <script>
+			
+			  </script>
+
+
+		</div>
+
 	</div>
+
+</div>
+
+</div>
 
 	<!-- /.modal -->
 
@@ -178,7 +187,7 @@
 
 				<li><a  href="inicio" style="padding:0px;"><img src="vistas/img/logo-erc.png" class="logo-principal cursor"></a></li>
 
-				<li><a class="color1" href="inicio">Inicio</a></li>
+				<!-- <li><a class="color1" href="inicio">Inicio</a></li> -->
 
 				<li class="grid"><a class="color2" href="#">Nosotros</a>
 
@@ -222,9 +231,9 @@
 
 										<li><a href="politica-de-privacidad">Política de Privacidad</a></li>
 
-										<li><a href="politica-de-privacidad">Riesgo de Inversión</a></li>
+										<li><a href="riesgo-de-inversion">Riesgo de Inversión</a></li>
 
-										<li><a href="licencias">Licencias</a></li>
+										<!-- <li><a href="licencias">Licencias</a></li> -->
 
 										<li><a href="proteccion-de-fondos">Protección de Fondos</a></li>
 
@@ -262,7 +271,7 @@
 
 										<li><a href="plataforma-cripto">Plataforma CRIPTO</a></li>
 
-										<li><a href="plataforma-nft">Plataforma NFTS</a></li>
+										<!-- <li><a href="plataforma-nft">Plataforma NFTS</a></li> -->
 
 
 
@@ -271,8 +280,8 @@
 								</div>
 
 							</div>
-
-							<div class="col1">
+<!-- =================================================================== -->
+							<!-- <div class="col1">
 
 								<div class="h_nav">
 
@@ -330,8 +339,8 @@
 
 								</div>
 
-							</div>
-
+							</div> -->
+<!-- ========================================================================== -->
 							<div class="col1">
 
 								<div class="h_nav">
@@ -348,7 +357,7 @@
 
 										<li><a href="https://www.tradingcentral.com/" target="_blank">Trading Central</a></li>
 
-										<li><a href="https://t.me/+AvHGvz4XbxUxMjIx" target="_blank">Señal ERC GLOBALMARKET</a></li>
+										<li><a href="https://t.me/+AvHGvz4XbxUxMjIx" target="_blank">Canal de Telegram</a></li>
 
 
 
@@ -522,7 +531,7 @@
 
 										<li><a href="cfd">CFDs</a></li>
 
-										<li><a href="indice-bruto">Indice Bursatiles</a></li>
+										<li><a href="indice-bruto">Índices Bursátiles</a></li>
 
 										<li><a href="materia-primas">Materias Primas</a></li>
 

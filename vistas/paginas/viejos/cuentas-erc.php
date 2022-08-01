@@ -96,8 +96,8 @@
                 <div class="col-lg-4 col-md-6 price-main-info">
                     <div class="price-inner card box-shadow">
 
-                        <div class="card-body-estandar">
-                            <h4 style="font-size:40px;" class=" mb-3">Estandar</h4>
+                        <div class="card-body">
+                            <h4 class=" mb-3">Estandar</h4>
                             <h5 class="card-title pricing-card-title">
                                 500 USD<span class="align-top">
                                     Depósito mínimo</span>
@@ -109,9 +109,8 @@
                                 <li>Módulo de la Academia 1</li>
                                 <li>Libros, Webinarios</li>
                                 <li>Calculadoras</li>
-                                <li style="position:relative; visibility: hidden;"><span class="fa fa-check" aria-hidden="true"></span>&nbsp;Calculadoras</li>
                                 <br><br><br>
-                                <br><br>
+                                <br><br><br>
                             </ul>
                             <div class="read-more mt-lg-5 mt-4">
                                 <a href="registro" class="btn-cards"> Aperturar Cuenta</a>
@@ -122,8 +121,8 @@
                 <div class="col-lg-4 col-md-6 price-main-info mt-md-0 mt-4">
                     <div class="price-inner card box-shadow ">
 
-                        <div class="card-body-premium">
-                            <h4 style="font-size:40px;" class=" mb-3">Premium</h4>
+                        <div class="card-body">
+                            <h4 class=" mb-3">Premium</h4>
                             <h5 class="card-title pricing-card-title">
                                 1000 USD<span class="align-top">
                                     Depósito mínimo</span>
@@ -151,7 +150,7 @@
                     <div class="price-inner card box-shadow">
 
                         <div class="card-body">
-                            <h4 style="font-size:40px;"  class=" mb-3">Profesional</h4>
+                            <h4 class=" mb-3">Profesional</h4>
                             <h5 class="card-title pricing-card-title">
                                 5000 USD<span class="align-top">
                                     Depósito mínimo</span>
